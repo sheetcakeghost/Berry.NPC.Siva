@@ -565,6 +565,20 @@ Siva's Heart Events: The Light Gourmet
 
 Event Summary List
 
+0-Heart Event: The Medical Emergency
+    Location: Clinic or Desert
+    Scene: Farmer offers to call a doctor when Siva is injured or ill
+    Plot: Siva admits he can't see a human doctor because his physiology is different
+    Dialogue: "Please don't call anyone. I... I know this must come as a great shock, but my internal organs aren't arranged like yours."
+    Dialogue Options for Farmer:
+        "It was pretty obvious, actually. You've been drinking saltwater like it's soda and your skin is blue."
+            "So you can see my true form then. Concerning, but I have noticed some of the children commenting on my appearance. Perhaps my cloaking technology isn't as universal as I'd presumed..."
+        "An ALIEN? That's... that's impossible!"
+            "Oh, so forest spirits and talking animals you accept, but you draw the line at extra terrestrial visitors?"
+        "Are you dangerous? Should I be worried?"
+            "Yes, I'm one of many from a alien attack force that was meant to scout this place and ... okay, stop hyperventilating, this is a joke. I'm not dangerous. I'm just... different."
+    Resolution: Farmer helps Siva find a solution, deepening trust as Siva shows vulnerability about his non-human limitations
+
 2-Heart Event: Salt & Light
     Location: Beach or Saloon
     Scene: Player discovers Siva examining salt with great curiosity
