@@ -206,7 +206,7 @@ https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/auth
     
     "Siva.Spring.27": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
     
-    "Siva.Spring.28": "Snow... The way it falls in such delicate patterns, each flake a unique structure of water crystals. It reminds me of the complexity of the universe, but here, it's so simple, so pure. $1",
+    "Siva.Spring.28": "Today, I will wander without purpose and see what finds me. $1",
     
     "Siva.Weather.Spring.1": "First day of spring and already this planet's vegetation erupts with alarming enthusiasm. Fascinating how life here is so... eager.$7",
     
@@ -280,6 +280,8 @@ https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/auth
     "Siva.Summer.Fri.26": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
  
     "Siva.Summer.28": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+
+    "Siva.Summer.29": "Exploring, relaxing, and sampling local minerals. Summer is the best time for it. $1",
     
     "Siva.Weather.Summer.1": "Your sun is remarkably gentle. On my homeworld, summer would liquefy your oceans and most carbon-based life forms. Charming difference.$3",
 
@@ -300,59 +302,47 @@ https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/auth
     "Siva.Weather.Summer.storm.1": "%The electrical discharge in your atmosphere is quite beautiful. Reminds me of the plasma storms back home, though considerably less lethal.$9",
 
 //Fall
-    "Siva.Fall.1": "The gradual chromatic shift in the local flora is a captivating process to observe and document. $1",
+    "Siva.Fall.01": "Solitude is not the same as loneliness. Sometimes, I cherish the quiet and let my thoughts wander. $1",
     
-    "Siva.Fall.2": "The {{weather}} today makes the leaves change color. {{Random:Fascinating|Remarkable}} decomposition chemistry! $1",
-   
-    "Siva.Fall.3": "{{TimeOfDay}} in fall brings {{Random:crispness|chill}} to the air. My {{SivaTechTerm}} detects the change. $1",
+    "Siva.Fall.02": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
     
-    "Siva.Fall.4": "These fall leaves emit {{Random:interesting|unusual}} infrared signatures. {{If:IsWindy:They scatter beautifully!%}",
+    "Siva.Fall.03": "I once observed a star collapse into a supernova. It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
     
-    "Siva.Fall.5": "Fall's {{weather}} reminds me of {{Random:stellar phenomena|homeworld's polar zones}}. {{SivaWeatherComment}} $1",
+    "Siva.Fall.04": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
     
-    "Siva.Fall.6": "The microbial activity shifts in fall. {{If:IsRaining:Enhanced decomposition|I'm collecting samples}}. $1",
+    "Siva.Fall.05": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
     
-    "Siva.Fall.7": "Fall harvest affects {{SivaMineralReference}} vibrations. {{Random:Note the patterns|Fascinating resonance}}! $1",
+    "Siva.Fall.06": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
     
-    "Siva.Fall.8": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
+    "Siva.Fall.07": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
     
-    "Siva.Fall.9": "I once observed a star collapse into a supernova. It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
+    "Siva.Fall.08": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
     
-    "Siva.Fall.10": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+    "Siva.Fall.09": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
     
-    "Siva.Fall.11": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
+    "Siva.Fall.10": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
     
-    "Siva.Fall.12": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
+    "Siva.Fall.11": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
     
-    "Siva.Fall.13": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+    "Siva.Fall.12": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
     
-    "Siva.Fall.14": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
+    "Siva.Fall.13": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
     
-    "Siva.Fall.15": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
+    "Siva.Fall.14": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
     
-    "Siva.Fall.16": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
+    "Siva.Fall.15": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
     
-    "Siva.Fall.17": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
+    "Siva.Fall.16": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
     
-    "Siva.Fall.18": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
+    "Siva.Fall.17": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
     
-    "Siva.Fall.19": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
+    "Siva.Fall.18": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
     
-    "Siva.Fall.20": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
+    "Siva.Fall.19": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
     
-    "Siva.Fall.21": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
+    "Siva.Fall.20": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
     
-    "Siva.Fall.22": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
-    
-    "Siva.Fall.23": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
-    
-    "Siva.Fall.24": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
-    
-    "Siva.Fall.25": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
-    
-    "Siva.Fall.26": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
-    
-    "Siva.Fall.28": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+    "Siva.Fall.22": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
     
     "Siva.Weather.Fall.1": "The trees shed their extremities and everyone acts like it's normal.$0 Imagine if I molted my outer layer and scattered it across town. The double standard is amusing.$3",
 
@@ -362,129 +352,74 @@ https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/auth
 
     "Siva.Weather.Fall.22": "The falling leaves follow chaotic patterns that somehow express perfect order. Much like the universe itself, wouldn't you agree?$7 No? Just me then.$0",
 
-    "Siva.Weather.Fall.wind.1": "%These gusts are quite refreshing. On my world, wind carries particles that would scour your flesh from bone. I prefer your version.$3",
+    "Siva.Weather.Fall.wind.01": "These gusts are quite refreshing. On my world, wind carries particles that would scour your flesh from bone. I prefer your version.$3",
 
 //Winter
-    "Siva.Winter.1": "The crystalline structures forming in the atmosphere are quite elegant. Each unique, yet following precise mathematical patterns. $1",
+    "Siva.Winter.01": "The crystalline structures forming in the atmosphere are quite elegant. Each unique, yet following precise mathematical patterns. $1",
     
-    "Siva.Winter.2": "The {{weather}} creates {{Random:complex|fractal}} ice formations. {{Random:My systems stabilize|How quaint - frozen water!}} $1",
+    "Siva.Winter.02": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
     
-    "Siva.Winter.3": "{{TimeOfDay}} in winter brings {{Random:crystalline|still}} air. {{Random:Reminds me of home's polar zones|My thermoregulators idle}}. $1",
+    "Siva.Winter.03": "I once observed a star collapse into a supernova. It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
     
-    "Siva.Winter.4": "Winter's {{weather}} affects {{SivaMineralReference}} differently. {{Random:Back home, these would be molten|Fascinating properties in cold}}. $1",
+    "Siva.Winter.04": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
     
-    "Siva.Winter.5": "Snow's molecular structure is {{Random:complex|ordered}}. {{If:IsSnowing:Collecting samples!}} $1",
+    "Siva.Winter.05": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
     
-    "Siva.Winter.6": "The cold barely registers to my systems. {{Random:Homeworld's surface could melt lead|I miss the thermal baths of home}}. $1",
+    "Siva.Winter.06": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
     
-    "Siva.Winter.7": "Winter's {{weather}} reminds me of {{Random:homeworld's polar research stations|brief respites from our star's fury}}. {{SivaWeatherComment}} $1",
+    "Siva.Winter.07": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
     
-    "Siva.Winter.8": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
+    "Siva.Winter.08": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
     
-    "Siva.Winter.9": "I once observed a star collapse into a supernova. It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
+    "Siva.Winter.09": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
     
-    "Siva.Winter.10": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+    "Siva.Winter.10": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
     
-    "Siva.Winter.11": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
+    "Siva.Winter.11": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
     
-    "Siva.Winter.12": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
+    "Siva.Winter.12": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
     
-    "Siva.Winter.13": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+    "Siva.Winter.13": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
     
-    "Siva.Winter.14": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
+    "Siva.Winter.14": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
     
-    "Siva.Winter.15": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
+    "Siva.Winter.15": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
     
-    "Siva.Winter.16": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
+    "Siva.Winter.16": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
     
-    "Siva.Winter.17": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
+    "Siva.Winter.17": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
     
-    "Siva.Winter.18": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
+    "Siva.Winter.18": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
     
-    "Siva.Winter.19": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
+    "Siva.Winter.19": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
     
-    "Siva.Winter.20": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
+    "Siva.Winter.20": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
     
-    "Siva.Winter.21": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
+    "Siva.Winter.21": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
     
-    "Siva.Winter.22": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
-    
-    "Siva.Winter.23": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
-    
-    "Siva.Winter.24": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
-    
-    "Siva.Winter.25": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
-    
-    "Siva.Winter.26": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
-    
-    "Siva.Winter.28": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
-    
-    "Siva.Weather.Winter.1": "Snow: water crystals falling from the sky.$0 On my world, we had silicon-based precipitation that would build intricate glass forests. Less pleasant to walk through.$3",
+    "Siva.Weather.Winter.01": "Snow: water crystals falling from the sky.$0 On my world, we had silicon-based precipitation that would build intricate glass forests. Less pleasant to walk through.$3",
 
-    "Siva.Weather.Winter.4": "I've observed humans becoming increasingly insular during winter months. A sensible adaptation, though Blik disagrees and keeps attempting to infiltrate their gatherings.$7",
+    "Siva.Weather.Winter.04": "I've observed humans becoming increasingly insular during winter months. A sensible adaptation, though Blik disagrees and keeps attempting to infiltrate their gatherings.$7",
 
-    "Siva.Weather.Winter.10": "Qi asked why I don't participate in your 'Feast of the Winter Star.' I tried explaining that I'm not technically a star, despite my illuminating personality.$3",
+    "Siva.Weather.Winter.08": "Qi asked why I don't participate in your 'Feast of the Winter Star.' I tried explaining that I'm not technically a star, despite my illuminating personality.$3",
 
-    "Siva.Weather.Winter.14": "Watching ice form on the water's surface—expanding as it freezes, defying normal physical behavior.$7 Water remains this planet's most fascinating anomaly.$0", 
+    "Siva.Weather.Winter.09": "Watching ice form on the water's surface—expanding as it freezes, defying normal physical behavior.$7 Water remains this planet's most fascinating anomaly.$0", 
 
-    "Siva.Weather.Winter.17": "The winter constellations here tell stories I've never heard. Strange to think that from my homeworld, your sun is just another anonymous point of light.$10",
+    "Siva.Weather.Winter.10": "The winter constellations here tell stories I've never heard. Strange to think that from my homeworld, your sun is just another anonymous point of light.$10",
 
-    "Siva.Weather.Winter.21": "Had to explain to Blik again why eating icicles isn't the same as consuming proper mineral formations. His disappointment was palpable.$6",
+    "Siva.Weather.Winter.11": "Had to explain to Blik again why eating icicles isn't the same as consuming proper mineral formations. His disappointment was palpable.$6",
 
-    "Siva.Weather.Winter.28": "The desert in winter holds a stillness that feels almost sacred.$0 The universe began in silence; perhaps that's why quiet moments feel like home.$10",
+    "Siva.Weather.Winter.12": "The desert in winter holds a stillness that feels almost sacred.$0 The universe began in silence; perhaps that's why quiet moments feel like home.$10",
 
-    "Siva.Weather.Winter.snow.1": "%These crystalline water formations falling from the sky are quite beautiful.$7 Back home we'd harvest them as a delicacy.$4",
-
-// Siva Schedule Dialogue (ScheduleDialogue.json)
-    "Siva.Town.01": "There is a quiet joy in witnessing the routines of others. $1",
-
-    "Siva.Town.02": "I like to watch the world move around me. It is never the same twice. $1",
-
-    "Siva.Town.03": "The air is getting colder. I must be quick with my errands in town. $1",
-
-    "Siva.Town.Winter.01": "I only come to town in winter because I must. The cold is... unpleasant. $1",
-
-    "Siva.DayOff.01": "Today, I will wander without purpose and see what finds me. $1",
-
-    "Siva.DayOff.03": "Solitude is not the same as loneliness. Sometimes, I cherish the quiet and let my thoughts wander. $1",
-
-    "Siva.DayOff.04": "Exploring, relaxing, and sampling local minerals. Summer is the best time for it. $1",
-
-    "Siva.DayOff.05": "I wonder what secrets are hidden just out of sight. Perhaps today I will find one, or become one. $1",
-
-    "Siva.Winter.Work.01": "It's best to stay in the desert and keep warm. The casino never closes, after all. $1",
-    
-    "Siva.Winter.Work.03": "I try to find small joys in the quiet of winter. $1",
-    
-    "Siva.Winter.NoTown.01": "Absolutely not. I am not leaving the desert in this snow. $1",
-    
-    "Siva.Winter.NoTown.02": "Today, I will stay where I am needed most. Sometimes, the bravest thing is to rest. $1",
+// Siva Location Dialogue
 
     "Siva.SkullCavern.01": "So many minerals to sample, but I won't go any deeper. Too dangerous for me. $1",
     
-    "Siva.SkullCavern.02": "These stones have seen more than I ever will. I like to imagine what stories they would tell. $1",
+    "Siva.MinesEntrance.01": "The mines are fascinating, but I prefer to stay near the entrance where it's safer. $1",
 
-    "Siva.MinesEntrance.01": "At the threshold of the unknown, I pause. Not all treasures are meant to be found. $1",
-    
-    "Siva.MinesEntrance.02": "The mines are fascinating, but I prefer to stay near the entrance where it's safer. $1",
+    "Siva.Casino.01": "Qi refers to himself as 'mysterious.'$7 As if wearing purple and hiding behind cryptic messages qualifies.$3 Still, for a being limited to three-dimensional thinking, he manages a commendable aura of intrigue.$4",
 
-    "Siva.SecretWoods.01": "There is a song in this place, older than memory. I listen, and feel a little less alone. $1",
-    
-    "Siva.SecretWoods.02": "Curiosity leads me here. I wonder what I will discover today? $1",
-
-    "Siva.Beach.01": "The ocean reminds me that every journey has both a beginning and an end. I am somewhere in between. $1",
-    
-    "Siva.Beach.02": "The sound of water is calming, even if the sand is nothing like home. $1",
-
-    "Siva.Saloon.01": "Sharing a table, a laugh, a story—these are the riches I value most. $1",
-    
-    "Siva.Saloon.02": "Socializing is... required, sometimes. At least it's warm inside. $1",
-    
-    "Siva.Saloon.03": "So many stories intersect here. I wonder if anyone realizes how extraordinary their ordinary lives are? $1",
-
-    "Siva.Casino.01": "Luck is a curious thing. I wish it could be shared as easily as a smile. $1",
-    
-    "Siva.Casino.02": "Everything is running smoothly at the casino. {{ModConfig:Qi Title}} will be pleased. $1",
+    "Siva.Casino.02": "Qi believes he discovered me 'by cosmic chance.'$7 As if my ship's emergency landing protocol didn't specifically target the highest concentration of crystalline energy on this continent.$3",
 
     "Siva.SandyShop.01": "Sandy always has something interesting for sale. I like her style. $1",
     
