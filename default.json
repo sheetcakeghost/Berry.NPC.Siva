@@ -341,6 +341,68 @@ https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/auth
     "Siva.SandyShop.01": "Sandy always has something interesting for sale. I like her style. $1",
     "Siva.SandyShop.02": "A good conversation is sometimes the best thing you can buy at a shop. $1",
 
+/*
+Siva's Heart Events: The Light Gourmet
+
+Event Summary List
+
+2-Heart Event: Salt & Light
+    Siva examines human consumption of salt with fascination
+    Discusses how this common mineral captures "ancient seas and sunlight"
+    Reveals cultural differences in mineral appreciation
+
+
+4-Heart Event: Rainbow Tasting
+    Siva captures and tastes different colors of a rainbow using special crystals
+    Describes each color's unique flavor profile with culinary expertise
+    Shares a captured rainbow fragment with the player
+
+
+6-Heart Event: Qi's Menu
+    Reveals Siva's frustrations with Qi while preparing meals from subpar minerals
+    Shows his adaptability and creativity despite limited resources
+    Deepens understanding of his employment situation
+
+
+8-Heart Event: Starfall Cuisine
+    Elaborate meteor shower tasting event in the desert
+    Siva explains how different meteors carry distinct flavors from their cosmic journeys
+    Emphasizes how gastronomy is better when shared
+
+
+10-Heart Event: Blik's Special Diet
+    Blik becomes unwell, needing specific light-mineral combinations
+    Player helps find rare ingredients for Blik's specialized needs
+    Strengthens three-way bond between Siva, Blik and player
+
+
+14-Heart Event: The Memory Feast
+    Siva creates a special dish capturing light from shared moments
+    Explains his culture's tradition of preserving relationships through light consumption
+    Shares this meaningful "meal" as his most precious creation on Earth
+
+
+
+Example Daily Dialogues
+Regular Day Dialogues
+"I sampled a particularly exquisite sunrise this morning. Notes of hope with a crisp, clear finish. The desert truly produces the most interesting light vintages.$4"
+"Your miners discard iron pyrite as worthless 'fool's gold.' Quite shortsighted.$3 When properly prepared, it delivers a robust, spicy profile with notes of afternoon sunlight.$7"
+"Do humans truly not taste the difference between fluorescent and incandescent lighting? How... limiting.$6 Like living in a world where all music sounds identical.$0"
+"Blik brought me a firefly yesterday. Their light has a delightful, effervescent quality—organic and unpredictable.$10 Rather like your human concept of 'street food.'$3"
+Season-Specific Dialogues
+Spring: "Spring sunlight has a particular freshness to it. Bright, with grassy undertones and a hint of pollen.$7 Quite invigorating after winter's heavy, aged flavors.$4"
+Summer: "Summer noon light is almost too intense—the culinary equivalent of your 'extra spicy' food.$6 I've been collecting it in small doses for Blik, who lacks my refined palate.$3"
+Fall: "The light filtered through autumn leaves creates a remarkable amber vintage.$10 Complex, nostalgic, with notes of decay that paradoxically celebrate life's cycle.$7"
+Winter: "Moonlight reflected off fresh snow is a rare delicacy.$4 Clean, pure, with crystalline overtones. I've been aging some in quartz for a special occasion.$1"
+Weather-Specific Dialogues
+Rainy: "Raindrops fracture sunlight in the most fascinating ways.$7 Each droplet becomes a tiny prism, creating microbursts of flavor. Nature's molecular gastronomy.$4"
+Thunderstorm: "Lightning contains the most complex flavor profile on your planet.$9 Intense, electric, with a sharp metallic finish. Too powerful to consume directly—I filter it through selenite.$0"
+Foggy: "Fog creates the most interesting light infusion—sunlight steeped in water vapor.$3 Muted, mysterious, with subtle variations throughout. Like your tea, but with photons.$1"
+Location-Specific Dialogues
+Mines: "The bioluminescent mushrooms down here produce a surprisingly sophisticated light.$7 Earthy, with umami undertones and a gentle finish. Quite the local specialty.$4"
+Beach: "Sunlight reflected off ocean waves has a briny, bright character.$3 The salt content in the air adds a distinctive minerality to the finish. Your world's terroir at work.$1"
+Wizard's Tower: "The magical illumination here contains flavor notes I've never encountered.$0 Like tasting a new spice for the first time... intriguing, yet difficult to categorize.$7"
+*/
 
     //## Heart Event Dialogue
 
