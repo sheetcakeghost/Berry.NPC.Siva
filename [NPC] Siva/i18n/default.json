@@ -74,23 +74,23 @@
         "Siva.Gift.Mineral.2": "I truly adore this type of gift.$7 It aligns perfectly with my tastes.$3 Your attentiveness is most appreciated.$1",
     
     // General CTs
-        "Siva.Dialogue.Introduction": "Name's Siva. Just moved here not too long ago.$3 Qi's got me cooking for him until my... transportation situation gets sorted out.$1",
+        "Siva.Dialogue.Introduction": "I am called Siva. I have only recently established myself in this locale.$3 Mr. Qi has employed me as his personal chef while my... transportation arrangements are being resolved.$1",
     
-        "Siva.Dialogue.Resort_Entering.1": "A beach resort! Nice.$7 Fair warning though - my skin reacts weirdly to chlorine. Nothing dangerous, just might turn the water a funny color.$3",
+        "Siva.Dialogue.Resort_Entering.1": "A beach resort! How delightful.$7 I feel I should mention - my skin has an unusual reaction to chlorine. Nothing of concern, but it may impart an interesting hue to the water.$3",
     
-        "Siva.Dialogue.Resort_Shore.1": "I'll just watch from here, thanks.$0 Me and large bodies of water don't exactly get along.$8",
+        "Siva.Dialogue.Resort_Shore.1": "I shall observe from this position, if you do not mind.$0 Large bodies of water and myself maintain something of a mutual disagreement.$8",
     
-        "Siva.Dialogue.Movie_Invitation.1": "A movie? Sounds fun.$7 We didn't have theaters where I grew up. Different kind of entertainment, you know?$4 I'd love to see what all the fuss is about.$1",
+        "Siva.Dialogue.Movie_Invitation.1": "A cinematic experience? How intriguing.$7 In my homeland, we had rather different forms of entertainment. The cultural variation is fascinating.$4 I would be most pleased to discover what makes these 'movies' so appealing.$1",
     
-        "Siva.Dialogue.cc_Complete.1": "You fixed up the community center!$0 It's amazing how a good meeting place brings people together.$7 This town might be onto something after all.$10",
+        "Siva.Dialogue.cc_Complete.1": "You have restored the community center to functionality!$0 It is remarkable how a proper gathering space unites individuals.$7 Perhaps this town possesses more wisdom than I initially credited it with.$10",
     
-        "Siva.Dialogue.danceAccept.1": "A dance? Well, I'm not exactly graceful, but I'm game to try.$7 Don't laugh if I step on your toes, though.$3",
+        "Siva.Dialogue.danceAccept.1": "You wish to dance together? I must confess I lack natural grace, but I am willing to attempt it.$7 I request your patience should I inadvertently tread upon your feet.$3",
         
-        "Siva.Dialogue.danceRejection.1": "I appreciate the invite to dance,$6 but I've got two left feet - literally.$3 Maybe after I've had some practice? I'm still getting used to... um, these shoes.$1",
+        "Siva.Dialogue.danceRejection.1": "I am grateful for your dance invitation,$6 but I possess what you might call 'two left feet' - more literally than you might imagine.$3 Perhaps after I have practiced? I am still adjusting to... shall we say, local footwear.$1",
     
-        "Siva.Dialogue.GreenRain.1": "The rain's a weird green color today.$7 Reminds me of this rare weather phenomenon where I grew up. Wonder what it means here.$3",
+        "Siva.Dialogue.GreenRain.1": "The precipitation today exhibits an unusual verdant hue.$7 It reminds me of a rare atmospheric condition from my homeland. Most curious to observe it here.$3",
     
-        "Siva.Dialogue.GreenRainFinished.1": "That green rain finally stopped.$0 I collected some in a bottle—has an interesting mineral taste to it. Kind of nostalgic, actually.$3",
+        "Siva.Dialogue.GreenRainFinished.1": "The emerald rainfall has finally ceased.$0 I collected a sample for culinary examination—it possesses a fascinating mineral flavor profile. Rather evocative of my childhood, actually.$3",
     
         "Siva.Dialogue.GreenRain_2.1": "This green rain is really hanging around.$7 Have you seen how the plants are loving it? This valley keeps surprising me.$4",
     
@@ -235,7 +235,7 @@
         "Siva.Dialogue.luauPoisoned": "Everyone got sick from the soup!$6 What a disaster.$0 Maybe next time we should have someone taste-test it first.$3 Just a thought for next year.$7",
 
     // Resort Events
-        "Siva.Dialogue.Resort_Entering": "A beach resort! Nice.$7 Fair warning though - my skin reacts weirdly to chlorine. Nothing dangerous, just might turn the water a funny color.$3",
+        "Siva.Dialogue.Resort_Entering": "A beach resort! How delightful.$7 I feel I should mention - my skin has an unusual reaction to chlorine. Nothing of concern, but it may impart an interesting hue to the water.$3",
 
         "Siva.Dialogue.Resort_Leaving": "That was... interesting.$0 Though keeping Blik from diving under other swimmers was exhausting.$6 He thinks scaring people is a game.$3",
 
@@ -245,7 +245,7 @@
 
         "Siva.Dialogue.Resort": "Swimming as a fun activity?$3 Interesting idea, trying to understand the appeal.$7 From here on dry land, of course.$0",
 
-        "Siva.Dialogue.Resort_Shore": "I'll just watch from here, thanks.$0 Me and large bodies of water don't exactly get along.$8",
+        "Siva.Dialogue.Resort_Shore": "I shall observe from this position, if you do not mind.$0 Large bodies of water and myself maintain something of a mutual disagreement.$8",
 
         "Siva.Dialogue.Resort_Towel": "Sunbathing is actually pretty nice!$7 Never really tried it before coming here.$10 I feel revitalized already.$4",
 
@@ -254,9 +254,9 @@
         "Siva.Dialogue.Resort_Wander": "Just walking around, watching everyone have fun.$7 People act differently at the beach than in town.$0 More relaxed, more spontaneous.$3",
 
     // Dance Events
-        "Siva.Dialogue.danceAccept": "A dance? Well, I'm not exactly graceful, but I'm game to try.$7 Don't laugh if I step on your toes, though.$3",
+        "Siva.Dialogue.danceAccept": "You wish to dance together? I must confess I lack natural grace, but I am willing to attempt it.$7 I request your patience should I inadvertently tread upon your feet.$3",
 
-        "Siva.Dialogue.danceRejection": "You're turning down my dance invitation?$5 Fair enough.$0 My dancing style is pretty... unique. Tends to clear the floor.$3 Probably for the best.$6",
+        "Siva.Dialogue.danceRejection": "I am grateful for your dance invitation,$6 but I possess what you might call 'two left feet' - more literally than you might imagine.$3 Perhaps after I have practiced? I am still adjusting to... shall we say, local footwear.$1",
     
     
     //Blik Dialogue
