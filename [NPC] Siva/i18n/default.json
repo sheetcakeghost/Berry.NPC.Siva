@@ -96,17 +96,17 @@
     
         "Siva.Dialogue.Resort_Leaving.1": "I've had enough sun for one day.$7 My skin gets weird if I stay out too long. See you around.$3",
     
-        "Siva.Dialogue.Resort_Chair.1": "Just trying to figure out this whole 'relaxation' thing.$0 Never had much time for lounging around where I grew up. It's... nicer than I expected.$3",
+        "Siva.Dialogue.Resort_Chair.1": "I am attempting to comprehend this concept of 'relaxation.'$0 In my homeland, leisure time was quite scarce. This experience is... more pleasant than anticipated.$3",
     
-        "Siva.Dialogue.Resort_Bar.1": "Just trying these drinks out of curiosity.$7 Where I come from, we have, uh, different beverages. These are surprisingly good!$3",
+        "Siva.Dialogue.Resort_Bar.1": "These beverages have minimal effect on my physiology.$0 However, I greatly appreciate the social ritual of communal drinking.$10 I shall have another, if you please!$4",
     
-        "Siva.Dialogue.Resort.1": "A beach resort! Pretty cool idea.$0 Reminds me of the hot springs where I grew up, though those would probably burn your skin off.$3 Kidding! Maybe.$6",
+        "Siva.Dialogue.Resort.1": "Swimming as a recreational pursuit?$3 A fascinating concept - I am endeavoring to comprehend its appeal.$7 From the safety of dry land, naturally.$0",
     
-        "Siva.Dialogue.Resort_Towel.1": "Just hanging out on a towel like everyone else.$7 The beaches where I grew up were way different - the sand actually glowed at night.$3",
+        "Siva.Dialogue.Resort_Towel.1": "I am reposing upon this fabric rectangle as is customary.$7 The coastal areas of my homeland were rather different - the mineral composition of our sand emitted a gentle luminescence after sunset.$3",
     
-        "Siva.Dialogue.Resort_Umbrella.1": "It's funny how people come to the beach for sun but hide under umbrellas.$6 Makes more sense than my hometown's solution - just stay indoors for half the year.$3",
+        "Siva.Dialogue.Resort_Umbrella.1": "I find it rather amusing how humans visit the beach for sunlight yet conceal themselves beneath parasols.$0 Perhaps not everyone appreciates solar radiation.$3 My epidermis actually benefits from sun exposure - it develops a most pleasant iridescence.$7",
     
-        "Siva.Dialogue.Resort_Wander.1": "This humid air actually feels nice on my skin.$0 Though I might need more sunscreen if I stay out here too long.$3",
+        "Siva.Dialogue.Resort_Wander.1": "I am simply perambulating, observing the recreational activities of others.$7 Human behavior patterns shift notably in this coastal environment compared to the town center.$0 There appears to be increased relaxation and spontaneity.$3",
     
         "Siva.Dialogue.cc_Begin.1": "You're fixing up the community center?$7 That's awesome. We did things differently where I grew up, but I love seeing people work together like this.$3",
     
@@ -239,19 +239,19 @@
 
         "Siva.Dialogue.Resort_Leaving": "That was... interesting.$0 Though keeping Blik from diving under other swimmers was exhausting.$6 He thinks scaring people is a game.$3",
 
-        "Siva.Dialogue.Resort_Chair": "People-watching at the beach is pretty interesting.$7 Everyone looks so different even though we're all basically the same underneath.$3",
+        "Siva.Dialogue.Resort_Chair": "I am attempting to comprehend this concept of 'relaxation.'$0 In my homeland, leisure time was quite scarce. This experience is... more pleasant than anticipated.$3",
 
-        "Siva.Dialogue.Resort_Bar": "These drinks don't really affect me much.$0 But I love the whole social aspect of sharing drinks with friends.$10 I'll have another, please!$4",
+        "Siva.Dialogue.Resort_Bar": "These beverages have minimal effect on my physiology.$0 However, I greatly appreciate the social ritual of communal drinking.$10 I shall have another, if you please!$4",
 
-        "Siva.Dialogue.Resort": "Swimming as a fun activity?$3 Interesting idea, trying to understand the appeal.$7 From here on dry land, of course.$0",
+        "Siva.Dialogue.Resort": "Swimming as a recreational pursuit?$3 A fascinating concept - I am endeavoring to comprehend its appeal.$7 From the safety of dry land, naturally.$0",
 
         "Siva.Dialogue.Resort_Shore": "I shall observe from this position, if you do not mind.$0 Large bodies of water and myself maintain something of a mutual disagreement.$8",
 
-        "Siva.Dialogue.Resort_Towel": "Sunbathing is actually pretty nice!$7 Never really tried it before coming here.$10 I feel revitalized already.$4",
+        "Siva.Dialogue.Resort_Towel": "I am reposing upon this fabric rectangle as is customary.$7 The coastal areas of my homeland were rather different - the mineral composition of our sand emitted a gentle luminescence after sunset.$3",
 
-        "Siva.Dialogue.Resort_Umbrella": "Funny how people come to the beach for sun but hide under umbrellas.$0 I guess not everyone likes getting burned.$3 My skin actually likes the sun - gives it a nice shimmer.$7",
+        "Siva.Dialogue.Resort_Umbrella": "I find it rather amusing how humans visit the beach for sunlight yet conceal themselves beneath parasols.$0 Perhaps not everyone appreciates solar radiation.$3 My epidermis actually benefits from sun exposure - it develops a most pleasant iridescence.$7",
 
-        "Siva.Dialogue.Resort_Wander": "Just walking around, watching everyone have fun.$7 People act differently at the beach than in town.$0 More relaxed, more spontaneous.$3",
+        "Siva.Dialogue.Resort_Wander": "I am simply perambulating, observing the recreational activities of others.$7 Human behavior patterns shift notably in this coastal environment compared to the town center.$0 There appears to be increased relaxation and spontaneity.$3",
 
     // Dance Events
         "Siva.Dialogue.danceAccept": "You wish to dance together? I must confess I lack natural grace, but I am willing to attempt it.$7 I request your patience should I inadvertently tread upon your feet.$3",
@@ -260,15 +260,15 @@
     
     
     //Blik Dialogue
-        "Blik.Damage.01": "Blik shredded my recipe collection into perfect confetti strips this morning.$6 Six hours of work destroyed in minutes, yet somehow I can't stay angry when he looks so pleased with himself.$4",
+        "Blik.Damage.01": "Blik transformed my meticulously curated recipe collection into precise confetti strips this morning.$6 Six hours of culinary documentation ruined within minutes, yet I find myself unable to maintain displeasure when faced with his self-satisfaction.$4",
     
-        "Blik.Exploration.01": "Caught Blik pushing things off shelves at Pierre's today.$7 He kept staring Pierre right in the eyes while doing it. Pierre was furious, but I couldn't stop laughing.$3",
+        "Blik.Exploration.01": "I observed Blik deliberately displacing merchandise from Pierre's shelving units today.$7 He maintained direct ocular contact with Pierre throughout the entire process. Pierre was understandably irate, while I found myself unable to suppress my amusement.$3",
     
-        "Blik.Play.01": "Blik chased a butterfly through my carefully arranged spice collection.$6 The mess was incredible, but seeing him so happy made it worth it.$4",
+        "Blik.Play.01": "Blik pursued a lepidopteran specimen through my meticulously organized flavor enhancement ingredients.$6 The resulting disarray was substantial, yet his evident joy provided adequate compensation.$4",
     
-        "Blik.Desert.01": "Blik dug up half of Sandy's cactus garden.$8 Took me forever to fix it while he just sat there looking proud of himself.$3",
+        "Blik.Desert.01": "Blik excavated approximately fifty percent of Sandy's succulent botanical display.$8 The restoration required substantial time and effort while he observed with an expression of unmistakable self-satisfaction.$3",
     
-        "Blik.Villager.01": "Blik knocked over Emily's yarn collection and got completely tangled up.$6 When we cut him free, he acted like WE were the problem. Typical.$3",
+        "Blik.Villager.01": "Blik upended Emily's textile fiber repository and became thoroughly ensnared.$6 Upon liberating him from his predicament, his demeanor suggested we were the source of the difficulty. Most characteristic behavior.$3",
     
         "Blik.Curiosity.01": "Blik 'explored' the community center by climbing everything, swinging from lights, and knocking over a bookshelf.$6 His curiosity is matched only by his talent for chaos.$4",
     
