@@ -1,0 +1,115 @@
+{
+    "Changes": [
+         {
+             "LogName": "Data/Character edit",
+             "Action": "EditData",
+             "Target": "Data/Characters",
+             "Entries": {
+                 "{{ModId}}_Siva": { //unique id of the npc, must be used when referencing the npc at all
+                     "DisplayName": "{{i18n:{{ModId}}_Siva}}", //translation capability
+                     "BirthSeason": "Fall",
+                     "BirthDay": 3,
+                     "HomeRegion": "Desert", //town / desert / other
+                     "Language": "Default", //default or dwarvish
+                     "Gender": "Male", //male, female, undefined
+                     "Age": "Adult", //child, teen, adult changes reactions from stringsfromcsfiles
+                     "Manner": "Polite", //polite, neutral, rude changes stringsfromcsfiles
+                     "SocialAnxiety": "Outgoing", //outgoing, neutral, shy changes stringsfromcsfiles
+                     "Optimism": "Positive", //positive, neutral, negative changes stringsfromcsfiles
+                     "IsDarkSkinned": false, //determines for children
+                     "CanBeRomanced": true, //checks to see if a bouquet can be gifted to this npc
+                     "LoveInterest": null, //sort of flavor text
+                     "Calendar": "HiddenUntilMet", //AlwaysShown, HiddenUntilMet, HiddenAlways for valid conditions of when their lil mugshot shows up on the calendar
+                     "SocialTab": "HiddenUntilMet", //UnknownUntilMet, AlwaysShown, HiddenUntilMet, HiddenAlways for valid conditions of when their information on the social tab will show up
+                     "CanSocialize": null, //boolean, whether this npc can even have a dialogue box with the player [true/false]
+                     "CanReceiveGifts": true, //whether this npc is antisocial or not
+                     "CanGreetNearbyCharacters": true, //reacts to townspeople when they pass by
+                     "CanCommentOnPurchasedShopItems": null, //needs i18n or dialogue strings to react to farmer's purchase if true
+                     "CanVisitIsland": null, //game state query-able if npc can visit island randomly
+                     "IntroductionsQuest": false, //sets if this npc is included into the intro quest of introducing yourself to everyone
+                     "ItemDeliveryQuests": null, //sets if this npc gets put on the bulletin board for randomly generated quests
+                     "PerfectionScore": false, //checks if this npc is required for perfection for friendship
+                     "EndSlideShow": "TrailingGroup", //shows this npc following behind in perfection cutscene
+                     "SpouseAdopts": null, //game state query-able whether this npc will always adopt or not https://stardewvalleywiki.com/Modding:Game_state_queries
+                     "SpouseWantsChildren": true, //game state query-able about the npc will want children at all
+                     "SpouseGiftJealousy": null, //specific gendered jealousy male-male female-female about this npc whether you gift nonbirthday/quest/festival
+                     "SpouseGiftJealousyFriendshipChange": -30, //friendship loss or gain for jealousy gifting of above
+                     "SpouseRoom": { //the square in the farmhouse that gets dedicated to this npc
+                         "MapAsset": null, //null for vanilla, set to loaded filename for custom npc
+                         "MapSourceRect": {
+                             "X": 0, //this is if you're wanting to move it to a different spot in the farmhouse
+                             "Y": 0,
+                             "Width": 6, //the custom spouse tmx width
+                             "Height": 9 //custom spouse room tmx height
+                         }
+                     },
+                     "SpousePatio": { //this is the spot outdoors on the farm where the spouse sits if they don't have a schedule for the day
+                         "MapAsset": null, //null for vanilla, set to loaded filename for custom npc
+                         "MapSourceRect": {
+                             "X": 0, //this is for if you want it to be someplace different on the farm
+                             "Y": 0,
+                             "Width": 4, //this is the width of the plot on the farm
+                             "Height": 4 //this is the height of the plot on the farm
+                         },
+                         "SpriteAnimationFrames": [ //this is the animation that loops when your custom npc is standing on their spousepatio, [frame, miliseconds] REMEMBER! these loop!
+                             [ 16, 1500 ]
+                         ],
+                         "SpriteAnimationPixelOffset": { //this is if your npc is slightly odd shaped, like taller than normal, or shorter than normal
+                             "X": 0,
+                             "Y": 0
+                         }
+                     },
+                     "SpouseFloors": [], //this is the subset of floors that the npc will plaster in the farmhouse
+                     "SpouseWallpapers": [], //this is the subset of wallpapers that the npc will plaster in the farmhouse
+                     "DumpsterDiveFriendshipEffect": -5, //whether the npc loses friendship with you if they catch you digging in the trash
+                     "DumpsterDiveEmote": null, //the emote above their head when they catch you digging in the trash
+                     "FriendsAndFamily": { //whether any other npcs are related
+                         "<NPCNAME>": "{{i18n:<RELATIONSHIP>}}", //i18n is the default.json used for translations
+                     },
+                     "FlowerDanceCanDance": null, //sets if the npc will dance at the flower festival on spring 24
+                     "WinterStarGifts": [], //items that this npc can gift during the winter star festival https://stardewvalleywiki.com/Modding:Item_queries#Item_spawn_fields
+                     "WinterStarParticipant": null, //whether the npc even participates in winter star, can be game state query-able
+                     "UnlockConditions": null, //game state query-able about whether the npc has an unlock condidion before seen
+                     "SpawnIfMissing": true, //forcibly spawns the npc if they're stuck
+                     "Home": [ //sets the npc's spawn point
+                         {
+                             "Id": "Default", //the default of where they spawn
+                             "Condition": null, //game state query-able condition if they change homes
+                             "Location": null, //specific location from data/location
+                             "Tile": {
+                                 "X": 0, //x position where the npc idles
+                                 "Y": 0 //y position where the npc idles
+                             },
+                             "Direction": "right" //direction that they face while idling
+                         }
+                     ],
+                     "TextureName": null,
+                     "Appearance": null, //new appearance system, highly customizable, see: Outfits.json
+                     "MugShotSourceRect": null, //change the position of their headshot in the calendar/map/etc if they're shorter/taller than normal
+                     "Size": {
+                         "X": 16, //this is for how wide each character sprite is
+                         "Y": 32 //this is for how tall each character sprite is
+                     },
+                     "Breather": true, //whether this places the breathing animation over the npc
+                     "BreathChestRect": null, //changeable if you want to enlarge/shrink the breathing animation
+                     "BreathChestPosition": null, //changeable if the npc is taller/shorter than normal
+                     "Shadow": null, //changeable to visible, offset, or scale / visible is default true whether null or not, offset to offset the shadow, scale to enlarge/shrink
+                     "EmoteOffset": { //whether to offset the emote bubble over the npc or not
+                         "X": 0,
+                         "Y": 0
+                     },
+                     "ShakePortraits": [], //the index of the portraits/npc to shake during dialogue, will always trigger
+                     "KissSpriteIndex": null, //whether this npc has a kissing or hugging sprite, reminder that characters/npc and portraits/npc starts at 0
+                     "KissSpriteFacingRight": false, //whether the sprite is facing to the right
+                     "HiddenProfileEmoteSound": null, /* https://docs.google.com/spreadsheets/d/1CpDrw23peQiq-C7F2FjYOMePaYe0Rc9BwQsj3h6sjyo/edit?gid=239695361#gid=239695361 for soundbank / hiddenprofile when clicking on their social tab after 4 hearts shows a different animation if changed */
+                     "HiddenProfileEmoteDuration": 4000, //how long the animation will run in miliseconds
+                     "HiddenProfileEmoteStartFrame": 32, //whichever sprite index the frame is on
+                     "HiddenProfileEmoteFrameCount": 2, //how many frames the sprite index will go through, going left to right
+                     "HiddenProfileEmoteFrameDuration": 200.0, //how long each frame will last measured in miliseconds
+                     "FormerCharacterNames": [], //used for older saves if the npc has changed names and must be globally unique
+                     "CustomFields": null //custom fields is used for c# implementation
+                 }
+             }
+         }
+      ]
+  }

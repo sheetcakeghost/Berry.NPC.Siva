@@ -1,0 +1,106 @@
+{
+    "Changes": [
+        {
+            "LogName": "Characters/Dialogue/Siva Edit",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/{{ModId}}_Siva",
+            "Entries": {
+                
+                //green rain
+                "GreenRain": "{{i18n or straight dialogue}}",
+                "GreenRainFinished": "{{i18n or straight dialogue}}",
+
+                //movie
+                "MovieInvitation": "{{i18n or straight dialogue}}",
+                "RejectMovieTicket_AlreadyInvitedBySomeoneElse": "{{i18n or straight dialogue}}",
+                "RejectMovieTicket_AlreadyWatchedThisWeek": "{{i18n or straight dialogue}}",
+                "RejectMovieTicket_Divorced": "{{i18n or straight dialogue}}",
+                "RejectMovieTicket_DontWantToSeeThatMovie": "{{i18n or straight dialogue}}",
+                "RejectMovieTicket": "{{i18n or straight dialogue}}",
+
+                //dating
+                "breakUp": "{{i18n or straight dialogue}}",
+                "dating_EdelweissSeung_memory_oneyear": "{{i18n or straight dialogue}}",
+                "RejectBouquet_NotDatable": "{{i18n or straight dialogue}}",
+                "RejectBouquet_NpcAlreadyMarried": "{{i18n or straight dialogue}}",
+                "RejectBouquet_VeryLowHearts": "{{i18n or straight dialogue}}",
+                "RejectBouquet_LowHearts": "{{i18n or straight dialogue}}",
+                "RejectBouquet": "{{i18n or straight dialogue}}",
+
+                //marriage
+                "SpouseFarmhouseClutter": "{{i18n or straight dialogue}}",
+                "Spouse_MonstersInHouse": "{{i18n or straight dialogue}}",
+                "SpouseStardrop": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_NeedHouseUpgrade": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_NotDatable": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_NpcWithSomeoneElse": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_PlayerWithSomeoneElse": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_Under8Hearts": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_Under10Hearts": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_Under10Hearts_AskedAgain": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant": "{{i18n or straight dialogue}}",
+
+                //divorced
+                "divorced": "{{i18n or straight dialogue}}",
+                "RejectGift_Divorced": "{{i18n or straight dialogue}}",
+                "RejectMermaidPendant_Divorced": "{{i18n or straight dialogue}}",
+                "RejectBouquet_Divorced": "{{i18n or straight dialogue}}",
+                "WipedMemory": "{{i18n or straight dialogue}}",
+
+                //island
+                "Resort": "{{i18n or straight dialogue}}",
+                "Resort_Bar": "{{i18n or straight dialogue}}",
+                "Resort_Chair": "{{i18n or straight dialogue}}",
+                "Resort_Dance": "{{i18n or straight dialogue}}",
+                "Resort_Entering": "{{i18n or straight dialogue}}",
+                "Resort_Leaving": "{{i18n or straight dialogue}}",
+                "Resort_Shore": "{{i18n or straight dialogue}}",
+                "Resort_Towel": "{{i18n or straight dialogue}}",
+                "Resort_Umbrella": "{{i18n or straight dialogue}}",
+                "Resort_Wander": "{{i18n or straight dialogue}}",
+
+                //birthday
+                "AcceptBirthdayGift_Negative": "{{i18n or straight dialogue}}",
+                "AcceptBirthdayGift_Positive": "{{i18n or straight dialogue}}",
+                "AcceptBirthdayGift": "{{i18n or straight dialogue}}",
+
+                //dating proposal
+                "AcceptBouquet": "{{i18n or straight dialogue}}",
+
+                //trashcan
+                "DumpsterDiveComment": "{{i18n or straight dialogue}}",
+
+                //slingshot
+                "HitBySlingshot": "{{i18n or straight dialogue}}",
+
+                ////////////////////////////////////////////////seasonals
+                //Seasonal
+                "{{Weekday}}": "{{i18n:{{Weekday}}_{{Random:{{Range:0,5}}}}}}",
+                "{{Season}}_{{Weekday}}": "{{i18n:{{Season}}_{{Weekday}}_{{Random:{{Range:0,5}}}}}}",
+
+                //Flower Festival
+                "FlowerDance_Accept_Spouse": "{{i18n or straight dialogue}}",
+                "FlowerDance_Accept": "{{i18n or straight dialogue}}",
+                "FlowerDance_Decline": "{{i18n or straight dialogue}}",
+
+                //Winter Star
+                "WinterStar_GiveGift_Before_Spouse": "{{i18n or straight dialogue}}",
+                "WinterStar_GiveGift_Before": "{{i18n or straight dialogue}}",
+                "WinterStar_GiveGift_After_Spouse": "{{i18n or straight dialogue}}",
+                "WinterStar_GiveGift_After": "{{i18n or straight dialogue}}",
+                "WinterStar_ReceiveGift": "{{i18n or straight dialogue}}",
+
+                //////////////////////////////////////////////////accept gifts example
+                "AcceptGift_(O)96": "{{i18n or straight dialogue}}"
+            }
+        },
+        {
+            "LogName": "Summit Dialogue",
+            "Action": "EditData",
+            "Target": "Data/ExtraDialogue",
+            "Entries": {
+                "SummitEvent_Dialogue3_{{ModId}}_Siva": "{{i18n or straight dialogue}}"
+            }
+        }
+    ]
+}

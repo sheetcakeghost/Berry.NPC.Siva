@@ -1,0 +1,18 @@
+{
+	"Name": "[NPC] Siva",
+	"Author": "Berry",
+	"Description": "An NPC that's out of this world.",
+	"Version": "1.0.0",
+	"UniqueID": "Berry.Siva",
+	"UpdateKeys": [ "Nexus:33289" ],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "spacechase0.SpaceCore",
+			"IsRequired": true,
+			"MinimumVersion": "1.27.0"
+		}
+	]
+}

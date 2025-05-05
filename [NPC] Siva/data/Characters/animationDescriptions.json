@@ -1,0 +1,29 @@
+/*
+{{Lowercase:{{<NPCNAME>}}}}
+and it will come out to be =
+
+{{modid}}_<npcname>
+in all lowercase
+
+The ones that are affected by the lower case are:
+
+"<npc internal name lowercased>_sleep": "#/#/#",
+"<npc internal name lowercased>_beach_towel": "#/#/#",
+"<npc internal name lowercased>_beach_dance": "#/#/#",
+"<npc internal name lowercased>_beach_drink": "#/#/#",
+"<npc internal name lowercased>_beach_umbrella": "#/#/#",
+*/
+
+{
+    "Changes": [
+        
+        {
+            "LogName": "NPC animationDescriptions edit",
+            "Action": "EditData",
+            "Target": "Data/animationdescriptions",
+            "Entries": {
+                "Siva_stand": "0/17 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0/0"
+            }
+        }
+    ]
+}

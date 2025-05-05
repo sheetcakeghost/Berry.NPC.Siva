@@ -1,0 +1,43 @@
+{
+    "Changes": [
+        {
+            "LogName": "Load Base",
+            "Action": "Load",
+            "Target": "Portraits/{{Siva}}, Characters/{{Siva}}, Portraits/{{Siva}}_Spring, Characters/{{Siva}}_Spring, Portraits/{{Siva}}_Flower, Portraits/{{Siva}}_Beach, Characters/{{Siva}}_Beach",
+            "FromFile": "assets/{{TargetPathOnly}}/{{TargetWithoutPath}}.png"
+        },
+        {
+            "LogName": "Siva Appearance Data",
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "TargetField": [ "{{Siva}}", "Appearance" ],
+            "Entries": {
+
+                //Regular Outfits
+                "{{ModId}}.Spring": {
+                    "Id": "{{ModId}}.Spring",
+                    "Condition": "SEASON spring",
+                    "Sprite": "Characters/Siva_Spring",
+                    "Portrait": "Portraits/Siva_Spring",
+                    "Precedence": -100
+                },
+                //festivals
+                "{{ModId}}.SivaFlower": {
+                    "Id": "{{ModId}}.SivaFlower",
+                    "Condition": "IS_EVENT festival_spring24",
+                    "Sprite": "Characters/Siva_Flower",
+                    "Portrait": "Portraits/Siva_Flower",
+                    "Precedence": -100
+                },
+                //beach
+                "{{ModId}}.SivaBeach": {
+                    "Id": "{{ModId}}.SivaBeach",
+                    "Sprite": "Characters/Siva_Beach",
+                    "Portrait": "Portraits/Siva_Beach",
+                    "IsIslandAttire": true,
+                    "Precedence": -1000
+                }
+            }
+        }
+    ]
+}

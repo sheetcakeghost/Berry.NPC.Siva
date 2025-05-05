@@ -1,0 +1,13 @@
+{
+    "Changes": [
+
+        {
+            "LogName": "<NPCNAME>'s Schedule",
+            "Action": "EditData",
+            "Target": "Characters/schedules/{{<NPCNAME>}}",
+            "Entries": {
+                "spring": "610 {{ModId}}_<CustomLocationIfNecessary> 18 4 <NPCNAME>_<animationDescriptionKey> \"Strings\\schedules\\<NPCNAME>:<KeyIdentifierIni18n>\"/2600 {{ModId}}_<CustomLocationIfNecessary> 20 3 <NPCNAME>_<animationDescriptionKey>",
+            }
+        }
+     ]
+}

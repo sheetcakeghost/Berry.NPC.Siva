@@ -1,0 +1,70 @@
+{
+  "Format": "2.3.0",  //version of content patcher
+  "ConfigSchema": {   //whether you have dynamic tokens that can be configured by the player used in generic mod config menu
+//EXAMPLE GMCM CONFIG
+      "Unwipeable": { //name of token
+          "AllowValues": "true, false",   //allowvalues can be any subset, any amount
+          "Default": "true",  //sets basic default to sit on
+          "Section": "Content",   //section is optional, but it does help organization
+          "Description": "Default true to have Edelweiss' memory be unwipeable from the witch statue."
+      }
+  },
+  "DynamicTokens": [
+      //For the internal NPC's name
+      {
+          "Name": "Siva",
+          "Value": "{{ModId}}_Siva"
+      },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Monday" },
+    "Value": "Mon"
+  },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Tuesday" },
+    "Value": "Tue"
+  },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Wednesday" },
+    "Value": "Wed"
+  },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Thursday" },
+    "Value": "Thu"
+  },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Friday" },
+    "Value": "Fri"
+  },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Saturday" },
+    "Value": "Sat"
+  },
+  {
+    "Name": "Weekday",
+    "When": { "DayOfWeek": "Sunday" },
+    "Value": "Sun"
+  }
+  ],
+  "Changes": [
+      //////////////////////////////////////////////loads
+      { //blank loads so that i can target edit
+          "LogName": "BlankLoads",
+          "Action": "Load",
+          "Priority": "Low",
+          "Target": "Characters/Dialogue/{{Siva}}, Characters/Dialogue/MarriageDialogue{{Siva}}, Characters/schedules/{{Siva}}, Strings/Schedules/{{Siva}}",
+          "FromFile": "data/Blank.json"
+      },
+      //////////////////////////////////////////////includes
+      {
+          "Logname": "SivaIncludes",
+          "Action": "Include",
+          "FromFile": "data/dispos.json"
+      }
+  ]
+}

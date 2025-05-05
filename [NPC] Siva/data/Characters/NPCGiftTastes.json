@@ -1,0 +1,63 @@
+/*These are absolutely necessary for an NPC to exist, if this doesn't exist, the NPC doesn't exist.
+
+This is a string field, delimited by "/"
+
+Index 0 = LOVED DIALOGUE REACTION
+
+Index 1 = LOVED GIFTS
+
+Index 2 = LIKED DIALOGUE REACTION
+
+Index 3 = LIKED GIFTS
+
+Index 4 = DISLIKED DIALOGUE REACTION
+
+Index 5 = DISLIKED GIFTS
+
+Index 6 = HATED DIALOGUE REACTION
+
+Index 7 = HATED GIFTS
+
+Index 8 = NEUTRAL GIFT REACTION
+
+Index 9 = NEUTRAL GIFTS
+
+Note: You do not have to have your i18n token be Gifts.Loved/Gifts.Liked, etc, you can make it quite literally Loved, Liked, as long as you're targeting the token correctly*/
+
+{
+    "Changes": [
+        {
+            "LogName": "NPCGiftTastes Edit",
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "{{Siva}}": "{{i18n:Gifts.Loved}}/96 97 98 99 104 109 114 121 122 124 125 MysticSyrup MysticTreeSeed/{{i18n:Gifts.Liked}}/198 202 212 213 214 218 219 225 226 227 228 242 265 727 728 730 732 873 904 905 906 907 921 FlashShifter.StardewValleyExpandedCP_Void_Salmon_Sushi FlashShifter.StardewValleyExpandedCP_Frog_Legs category_flowers/{{i18n:Gifts.Disliked}}/78 259 256 685 769/{{i18n:Gifts.Hated}}/889 909 910 Moss 203 209 306 307 308 FlashShifter.StardewValleyExpandedCP_Void_Soul FlashShifter.StardewValleyExpandedCP_Void_Shard FlashShifter.StardewValleyExpandedCP_Void_Pebble FlashShifter.StardewValleyExpandedCP_Swirl_Stone category_junk/{{i18n:Gifts.Neutral}}/334 335 336 337 338 378 380 382 384 386 388 390 394 FlashShifter.StardewValleyExpandedCP_Void_Root FlashShifter.StardewValleyExpandedCP_Void_Delight FlashShifter.StardewValleyExpandedCP_Slime_Berry FlashShifter.StardewValleyExpandedCP_Poison_Mushroom FlashShifter.StardewValleyExpandedCP_Monster_Mushroom FlashShifter.StardewValleyExpandedCP_Monster_Fruit category_trinket/"
+            }
+        },
+
+        //ConcessionsTastes
+		{   
+			"Action": "EditData",
+			"Target": "Data/ConcessionTastes",
+			"Entries": { 
+				"{{Siva}}": {
+					"Name": "<nowiki>{{ModId}}</nowiki>_WrenSong",
+					"LovedTags": [
+						"Joja Cola",
+						"Truffle Popcorn",
+						"Black Licorice",
+					],
+					"LikedTags": [
+						"Healthy",
+					],
+					"DislikedTags": [
+						"Sweet",
+						"Salty",
+						"Fatty",
+						"Panzanella Salad",
+					]
+				} 
+			}
+		}
+    ]
+}

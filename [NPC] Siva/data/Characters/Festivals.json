@@ -1,0 +1,20 @@
+{
+    "LogName": "Festival Include",
+    "Action": "Include",
+    "FromFile": "assets/data/Festivals.json"
+},
+"DynamicTokens": [
+		{
+			"Name": "FestivalYear",
+			"Value": "", 
+		},
+		
+		{
+			"Name": "FestivalYear",
+			"Value": "_y2", 
+			"When":
+			{
+				"Query: {{Year}} % 2 = 0": true,
+			}
+		},
+]

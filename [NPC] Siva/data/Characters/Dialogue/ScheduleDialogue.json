@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Siva's schedule dialogue",
+            "Action": "EditData",
+            "Target": "Strings/schedules/{{Siva}}",
+            "Entries": {
+                //spring
+                "{{Siva}}:<KeyIdentifierIni18n>": "{{i18n:Siva:<KeyIdentifierIni18n>}}",
+            }
+        }
+    ]
+}
