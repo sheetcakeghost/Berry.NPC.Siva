@@ -25,11 +25,16 @@
         "Siva.Music.Date": "Carnival Date (JStewartMusic)",
     
     //Gifts
-        "AcceptBirthdayGift.IridiumBar.1": "Oh! This is very useful, thank you.$1",
+        "Siva.BirthdayGift.Love.1": "...$1",
     
-        "AcceptBirthdayGift.mineral.1": "This looks delicious, thank you.$1",
+        "Siva.BirthdayGift.Like.1": "...$1",
+
+        "Siva.BirthdayGift.Neutral.1": "...$1",
     
-    // DISPOSITION
+        "Siva.BirthdayGift.Dislike.1": "...$1",
+
+        "Siva.BirthdayGift.Hate.1": "...$1",
+    
         "Siva.Gift.Love.1": "This resonates with me quite profoundly.$4 A most welcome offering that I shall treasure—and perhaps sample later.$1 My sincere gratitude.$4",
     
         "Siva.Gift.Love.2": "Oh! What a thoughtful selection.$4 This aligns perfectly with my preferences.$1 You've made this rotation of your world particularly pleasant.$4",
@@ -122,7 +127,7 @@
         "Siva.Dialogue.luauPoisoned.1": "The feast has resulted in collective digestive distress.$8 Even my specialized stomach lining found that concoction challenging.$5 Perhaps I could offer some digestive minerals from my homeworld for next time.$3",
 
     // Community Center CTs
-        "Siva.Dialogue.cc_Begin": "The small forest beings have enlisted your help? Fascinating.$7 On my world, symbiotic relationships with native species were essential for survival.$0 Perhaps humans are more adaptable than I initially calculated.$3",
+        "Siva.Dialogue.cc_Begin": "The small forest beings have enlisted your help? Fascinating.$7 Where I'm from, symbiotic relationships with native species were essential for survival.$0 Perhaps humans are more adaptable than I initially calculated.$3",
 
         "Siva.Dialogue.cc_Complete": "You've restored this community gathering place.$0 Fascinating how physical spaces influence social coherence.$7 Perhaps there's something to learn from your species after all.$10",
 
@@ -134,13 +139,13 @@
 
         "Siva.Dialogue.cc_Greenhouse": "Your agricultural containment facility is operational!$4 The atmospheric control is rudimentary but effective.$7 I've been considering growing some crystalline flora from my homeworld there...$10 With proper authorization, naturally.$3",
 
-        "Siva.Dialogue.cc_Minecart": "Your archaic transport network is functioning again.$0 On my world, we teleport, but there's something... charming about the physicality of your conveyance systems.$10 I may try it myself.$7",
+        "Siva.Dialogue.cc_Minecart": "Your archaic transport network is functioning again.$0 Where I'm from, we teleport, but there's something... charming about the physicality of your conveyance systems.$10 I may try it myself.$7",
 
     // JojaMart Path CTs
         "Siva.Dialogue.joja_Begin": "You've aligned yourself with the blue-signed commerce entity?$5 Interesting choice.$0 Corporate assimilation follows similar patterns across galaxies, it seems.$6 Just an observation, not a judgment.$3",
 
     // Movie Theater CTs
-        "Siva.Dialogue.movieTheater": "A visual narrative experience? Intriguing.$7 On my world, we share stories through crystalline thought-transference, but I'm eager to try your method.$4",
+        "Siva.Dialogue.movieTheater": "A visual narrative experience? Intriguing.$7 Where I'm from, we share stories through crystalline thought-transference, but I'm eager to try your method.$4",
 
     // Pet Event CTs
         "Siva.Dialogue.gotPet": "You've adopted a terrestrial companion creature.$0 Blik is suspicious of it, but I find your bond... heartwarming.$10 Interspecies connections are universal constants, it seems.$7",
@@ -148,11 +153,11 @@
     // Relationship Event CTs
         "Siva.Dialogue.dating": "You've initiated a formal pair-bonding process with someone?$7 My species has similar rituals, though with more luminescent displays and less... awkwardness.$3 I wish you compatibility.$10",
 
-        "Siva.Dialogue.married": "You've completed the human matrimonial ceremony!$4 I understand this is a significant life event.$0 On my world, partnerships last for precisely 87 rotations before mandatory reassessment.$3 Your 'forever' concept is both terrifying and beautiful.$10",
+        "Siva.Dialogue.married": "You've completed the human matrimonial ceremony!$4 I understand this is a significant life event.$0 Where I'm from, partnerships last for precisely 87 rotations before mandatory reassessment.$3 Your 'forever' concept is both terrifying and beautiful.$10",
 
         "Siva.Dialogue.married_twice": "A second marriage? How resilient you humans are.$7 In my culture, we believe each connection teaches us something new about ourselves.$10 What have you learned, I wonder?$0",
 
-        "Siva.Dialogue.divorced_once": "Your partnership dissolution appears to have caused emotional distress.$5 If it helps, on my world, we view relationships as temporary alignments of compatible energy patterns.$0 Nothing lost, merely transformed.$10",
+        "Siva.Dialogue.divorced_once": "Your partnership dissolution appears to have caused emotional distress.$5 If it helps, Where I'm from, we view relationships as temporary alignments of compatible energy patterns.$0 Nothing lost, merely transformed.$10",
 
     // Pam's House CT
         "Siva.Dialogue.pamHouseUpgrade": "Your generosity to the transportation operator was quite remarkable.$4 Such altruism without evolutionary advantage confounds me.$0 Yet... I find myself... moved by it.$10",
@@ -167,14 +172,91 @@
         "Siva.Dialogue.wonIceFishing": "You've demonstrated remarkable skill in extracting aquatic lifeforms through frozen surfaces.$4 On my homeworld, our oceans never freeze... they occasionally vaporize instead.$6 Less suitable for recreational fishing.$3",
 
     // Other Event CTs
-        "Siva.Dialogue.FullCrabPond": "Your crustacean containment has reached maximum capacity.$0 Their rhythmic movement patterns are almost hypnotic.$7 Did you know on my world, similar creatures can grow to the size of your farmhouse?$4 We keep them as pets.$3",
-
-        "Siva.Dialogue.GreenRain": "This precipitation contains unusual molecular structures.$7 My sensors detect trace elements not typically found in your atmosphere.$0 I would advise against direct exposure... though it may be too late for that advice.$6",
-
-        "Siva.Dialogue.GreenRainFinished": "The anomalous precipitation event has concluded.$0 Did you experience any unusual sensations?$7 For purely scientific documentation purposes, of course.$3 I'm not concerned about potential mutations. Not at all.$6",
+        "Siva.Dialogue.FullCrabPond": "Your crustacean containment has reached maximum capacity.$0 Their rhythmic movement patterns are almost hypnotic.$7 Did you know Where I'm from, similar creatures can grow to the size of your farmhouse?$4 We keep them as pets.$3",
 
     // Willy's Event CT
-        "Siva.Dialogue.willyCrabs": "The fishing human's crustacean dilemma was quite entertaining.$3 On my world, we communicate with such creatures telepathically.$7 Have you tried simply asking them to leave?$0 No? How primitive.$3",
+        "Siva.Dialogue.willyCrabs": "The fishing human's crustacean dilemma was quite entertaining.$3 Where I'm from, we communicate with such creatures telepathically.$7 Have you tried simply asking them to leave?$0 No? How primitive.$3",
+
+    // Spouse Events
+        "Siva.Dialogue.elliottGone": "Your literary companion has departed temporarily?$0 I find it fascinating how humans continue to function while physically separated.$7 My species maintains quantum entanglement with significant others at all times.$3",
+
+        "Siva.Dialogue.ElliottGone1": "You received correspondence from your distant mate?$7 Primitive but effective communication method.$0 Though I could program a quantum resonator to project his thoughts directly if you'd prefer?$4",
+
+        "Siva.Dialogue.ElliottGone2": "More paper-based transmissions from your partner?$3 The emotional investment you place in these molecule arrangements is curious but... endearing.$10", 
+
+        "Siva.Dialogue.ElliottGone3": "Another letter?$0 I've been analyzing the linguistic patterns.$7 There appears to be a 73.8% correlation between word choice and emotional state.$3 Quite efficient for such a basic communication method.$4",
+
+        "Siva.Dialogue.ElliottGone4": "The frequency of these communications suggests significant pair-bond stability.$10 I find myself... appreciating the simplicity of Your people's attachment rituals.$7",
+
+        "Siva.Dialogue.ElliottGone5": "The anticipation of reunion appears to be enhancing your neurochemical balance.$4 Fascinating how separation can strengthen human connections.$10 Counter-intuitive but beautiful.$7",
+
+        "Siva.Dialogue.ElliottGone6": "Final communication before physical return?$4 I've observed that human reunions involve elaborate greeting rituals.$3 May I observe yours? For scientific purposes, naturally.$0",
+
+        "Siva.Dialogue.ElliottGone7": "Reunification day has arrived!$4 I've prepared a small molecular-resonance gift to celebrate.$10 It's customary Where I'm from for friends to acknowledge pair-bond stability milestones.$7",
+
+        "Siva.Dialogue.emilyFiber": "You've been collecting plant fibers for your creative mate?$0 Supporting another's passion is a universal constant, it seems.$10 Even Where I'm from, we have similar customs... though our 'fabric' is woven from solidified light.$7",
+
+        "Siva.Dialogue.haleyCakewalk1": "Your partner's community event appears to have excited the local population.$0 The concept of 'fun' varies so widely across species, yet somehow remains recognizable.$10 Fascinating cultural anthropology.$7",
+
+        "Siva.Dialogue.haleyCakewalk2": "The aftermath of social gatherings always leaves such curious energy patterns in the air.$7 Your mate seems to have catalyzed a successful community bonding ritual.$10 Well done, by proxy.$4",
+
+        "Siva.Dialogue.leahPaint": "Your artist companion is creating pigment-based visual expressions?$7 Where I'm from, we create art through manipulating gravitational waves.$3 Both approaches seek to make the invisible visible, I suppose.$10",
+
+        "Siva.Dialogue.pennyRedecorating": "Rearranging dwelling components to alter psychological responses?$0 Yes, I understand this 'redecorating' concept.$7 Blik periodically rearranges my crystals when I'm not looking.$6 Less aesthetic, more mischievous.$3",
+
+        "Siva.Dialogue.samJob1": "Your musical companion has secured formal employment?$4 Economic integration is an important stability milestone in your culture, I've observed.$0 A significant development.$7",
+
+        "Siva.Dialogue.samJob2": "The transition between educational structures and economic participation fascinates me.$7 Your partner appears to be navigating this phase adequately.$0 I wish him satisfactory neurochemical responses to his new activities.$4",
+
+        "Siva.Dialogue.samJob3": "Long-term pair bonds during periods of individual growth present unique challenges.$0 Your continued support of your partner's evolution shows admirable commitment.$10 Most intriguing to observe.$7",
+
+        "Siva.Dialogue.sebastianFrog": "Your companion's interest in amphibians is unexpected but charming.$7 Blik tried to communicate with one yesterday.$3 The results were... less than optimal for all involved.$6",
+
+        "Siva.Dialogue.sebastianFrog2": "The amphibian acquisition appears to have generated significant positive emotional response.$10 Interspecies companionship takes many forms across the galaxy.$7 All equally valid.$4",
+
+        "Siva.Dialogue.shaneSaloon1": "Your partner's entrepreneurial venture in the social consumption establishment?$0 Fascinating evolution from consumer to provider.$7 Status elevation rituals take such interesting forms in your culture.$3",
+
+        "Siva.Dialogue.shaneSaloon2": "Community response to familiar offerings in novel contexts provides interesting sociological data.$7 Your mate's initiative appears well-received.$10 Cultural adaptation in microcosmm.$4",
+
+    // Ten-Heart Group Events
+        "Siva.Dialogue.dumped_Guys": "That was... quite a scene.$5 Relationships here seem unnecessarily complicated.$0 Where I come from, we're more... direct about compatibility issues.$3 Less dramatic, more efficient.$6",
+
+        "Siva.Dialogue.dumped_Girls": "Ah. Multiple relationship terminations at once.$6 That looked... unpleasant.$5 If it helps, finding the right connection rarely happens on the first try, no matter where you're from.$0",
+
+        "Siva.Dialogue.secondChance_Guys": "They've forgiven you? Impressive.$4 Second chances are rare treasures in any community.$10 I'm... pleased to see such reconciliation.$7",
+
+        "Siva.Dialogue.secondChance_Girls": "Peace restored through conversation.$7 Simple but effective.$0 I've observed that time and honest words can heal many wounds.$10 Qi would say something about fortune favoring the sincere.$4",
+
+    // Luau Events
+        "Siva.Dialogue.luauBest": "The communal nutrient mixture was optimally balanced?$4 Collective cooperation leading to mutual satisfaction.$10 A metaphor for society itself, perhaps?$7",
+
+        "Siva.Dialogue.luauShorts": "Introducing textile garments into consumable substances?$6 Is this some elaborate dominance display I'm unaware of?$5 Or simply a processing error?$0 Either way, fascinating sociological implications.$3",
+
+        "Siva.Dialogue.luauPoisoned": "The communal consumption event resulted in mass digestive distress.$6 An unfortunate outcome.$0 Where I'm from, we analyze molecular composition before ingestion.$3 Just a suggestion for next time.$7",
+
+    // Resort Events
+        "Siva.Dialogue.Resort_Entering": "A recreational water facility. How quaint.$7 I should warn you my epidermis may temporarily change your pool's pH balance.$3",
+
+        "Siva.Dialogue.Resort_Leaving": "The aquatic recreation period was... illuminating.$0 Though explaining to Blik why he shouldn't phase-shift through other swimmers was exhausting.$6",
+
+        "Siva.Dialogue.Resort_Chair": "Observing humans in minimal protective covering is educational.$7 Your species has remarkable variation in external appearance for sharing identical genetic origins.$3",
+
+        "Siva.Dialogue.Resort_Bar": "Your fermented liquid refreshments have no effect on my biochemistry.$0 But I appreciate the social ritual of consumption-based bonding.$10 I'll have another, please.$4",
+
+        "Siva.Dialogue.Resort": "Collective immersion in dihydrogen monoxide as recreation?$3 Curious, but I'm attempting to appreciate local customs.$7 From a safe distance, naturally.$0",
+
+        "Siva.Dialogue.Resort_Shore": "I'm observing from a safe distance.$0 Large bodies of water and my internal systems have... disagreements.$8",
+
+        "Siva.Dialogue.Resort_Towel": "Horizontal positioning on fabric rectangles to absorb radiation?$7 Inefficient but I must admit... surprisingly pleasant.$10 My energy cells are recharging nicely.$4",
+
+        "Siva.Dialogue.Resort_Umbrella": "Shelter from beneficial solar radiation seems counterproductive.$0 Though I suppose your epidermis lacks proper reflective properties.$3 Mine naturally sparkles in direct sunlight.$7",
+
+        "Siva.Dialogue.Resort_Wander": "Wandering the perimeter, cataloging human recreational behaviors.$7 The social dynamics here differ from standard community interactions.$0 Less structure, more... spontaneity.$3",
+
+    // Dance Events
+        "Siva.Dialogue.danceAccept": "A ritualized movement ceremony? I suppose I could analyze your planet's rhythmic traditions firsthand.$7 For scientific purposes, of course.$3",
+
+        "Siva.Dialogue.danceRejection": "You decline my invitation to movement-based cultural exchange?$5 Understandable.$0 My species' traditional dance involves temporary molecular destabilization.$3 Perhaps for the best.$6",
     
     
     //Blik Dialogue
@@ -285,7 +367,7 @@
         // Pierre
         "Siva.Villager.Pierre.01": "Pierre seemed distressed when I asked about the mineral content of his produce.$6 Apparently humans don't evaluate their food's crystalline structure. How do they know what resonates best with their systems?$3",
     
-        "Siva.Villager.Pierre.02": "Pierre's competitive fixation on 'JojaMart' is fascinating.$7 On my world, commerce evolved beyond such tribal market divisions eons ago. Though I admit, his passion is endearing.$3",
+        "Siva.Villager.Pierre.02": "Pierre's competitive fixation on 'JojaMart' is fascinating.$7 Where I'm from, commerce evolved beyond such tribal market divisions eons ago. Though I admit, his passion is endearing.$3",
     
         // Abigail
         "Siva.Villager.Abigail.01": "Abigail asked if I wanted to try something called 'amethyst.' I had to politely explain I'd already had breakfast.$4 Her expression was... puzzling.$6",
