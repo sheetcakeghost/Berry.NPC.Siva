@@ -1,212 +1,721 @@
 {
-    "Mon_0": "",
-    "Mon_1": "",
-    "Mon_2": "",
-    "Mon_3": "",
-    "Mon_4": "",
-    "Mon_5": "",
-    "Tue_0": "",
-    "Tue_1": "",
-    "Tue_2": "",
-    "Tue_3": "",
-    "Tue_4": "",
-    "Tue_5": "",
-    "Wed_0": "",
-    "Wed_1": "",
-    "Wed_2": "",
-    "Wed_3": "",
-    "Wed_4": "",
-    "Wed_5": "",
-    "Thu_0": "",
-    "Thu_1": "",
-    "Thu_2": "",
-    "Thu_3": "",
-    "Thu_4": "",
-    "Thu_5": "",
-    "Fri_0": "",
-    "Fri_1": "",
-    "Fri_2": "",
-    "Fri_3": "",
-    "Fri_4": "",
-    "Fri_5": "",
-    "Sat_0": "",
-    "Sat_1": "",
-    "Sat_2": "",
-    "Sat_3": "",
-    "Sat_4": "",
-    "Sat_5": "",
-    "Sun_0": "",
-    "Sun_1": "",
-    "Sun_2": "",
-    "Sun_3": "",
-    "Sun_4": "",
-    "Sun_5": "",
-    "Spring_Mon_0": "",
-    "Spring_Mon_1": "",
-    "Spring_Mon_2": "",
-    "Spring_Mon_3": "",
-    "Spring_Mon_4": "",
-    "Spring_Mon_5": "",
-    "Spring_Tue_0": "",
-    "Spring_Tue_1": "",
-    "Spring_Tue_2": "",
-    "Spring_Tue_3": "",
-    "Spring_Tue_4": "",
-    "Spring_Tue_5": "",
-    "Spring_Wed_0": "",
-    "Spring_Wed_1": "",
-    "Spring_Wed_2": "",
-    "Spring_Wed_3": "",
-    "Spring_Wed_4": "",
-    "Spring_Wed_5": "",
-    "Spring_Thu_0": "",
-    "Spring_Thu_1": "",
-    "Spring_Thu_2": "",
-    "Spring_Thu_3": "",
-    "Spring_Thu_4": "",
-    "Spring_Thu_5": "",
-    "Spring_Fri_0": "",
-    "Spring_Fri_1": "",
-    "Spring_Fri_2": "",
-    "Spring_Fri_3": "",
-    "Spring_Fri_4": "",
-    "Spring_Fri_5": "",
-    "Spring_Sat_0": "",
-    "Spring_Sat_1": "",
-    "Spring_Sat_2": "",
-    "Spring_Sat_3": "",
-    "Spring_Sat_4": "",
-    "Spring_Sat_5": "",
-    "Spring_Sun_0": "",
-    "Spring_Sun_1": "",
-    "Spring_Sun_2": "",
-    "Spring_Sun_3": "",
-    "Spring_Sun_4": "",
-    "Spring_Sun_5": "",
-    "Summer_Mon_0": "",
-    "Summer_Mon_1": "",
-    "Summer_Mon_2": "",
-    "Summer_Mon_3": "",
-    "Summer_Mon_4": "",
-    "Summer_Mon_5": "",
-    "Summer_Tue_0": "",
-    "Summer_Tue_1": "",
-    "Summer_Tue_2": "",
-    "Summer_Tue_3": "",
-    "Summer_Tue_4": "",
-    "Summer_Tue_5": "",
-    "Summer_Wed_0": "",
-    "Summer_Wed_1": "",
-    "Summer_Wed_2": "",
-    "Summer_Wed_3": "",
-    "Summer_Wed_4": "",
-    "Summer_Wed_5": "",
-    "Summer_Thu_0": "",
-    "Summer_Thu_1": "",
-    "Summer_Thu_2": "",
-    "Summer_Thu_3": "",
-    "Summer_Thu_4": "",
-    "Summer_Thu_5": "",
-    "Summer_Fri_0": "",
-    "Summer_Fri_1": "",
-    "Summer_Fri_2": "",
-    "Summer_Fri_3": "",
-    "Summer_Fri_4": "",
-    "Summer_Fri_5": "",
-    "Summer_Sat_0": "",
-    "Summer_Sat_1": "",
-    "Summer_Sat_2": "",
-    "Summer_Sat_3": "",
-    "Summer_Sat_4": "",
-    "Summer_Sat_5": "",
-    "Summer_Sun_0": "",
-    "Summer_Sun_1": "",
-    "Summer_Sun_2": "",
-    "Summer_Sun_3": "",
-    "Summer_Sun_4": "",
-    "Summer_Sun_5": "",
-    "Fall_Mon_0": "",
-    "Fall_Mon_1": "",
-    "Fall_Mon_2": "",
-    "Fall_Mon_3": "",
-    "Fall_Mon_4": "",
-    "Fall_Mon_5": "",
-    "Fall_Tue_0": "",
-    "Fall_Tue_1": "",
-    "Fall_Tue_2": "",
-    "Fall_Tue_3": "",
-    "Fall_Tue_4": "",
-    "Fall_Tue_5": "",
-    "Fall_Wed_0": "",
-    "Fall_Wed_1": "",
-    "Fall_Wed_2": "",
-    "Fall_Wed_3": "",
-    "Fall_Wed_4": "",
-    "Fall_Wed_5": "",
-    "Fall_Thu_0": "",
-    "Fall_Thu_1": "",
-    "Fall_Thu_2": "",
-    "Fall_Thu_3": "",
-    "Fall_Thu_4": "",
-    "Fall_Thu_5": "",
-    "Fall_Fri_0": "",
-    "Fall_Fri_1": "",
-    "Fall_Fri_2": "",
-    "Fall_Fri_3": "",
-    "Fall_Fri_4": "",
-    "Fall_Fri_5": "",
-    "Fall_Sat_0": "",
-    "Fall_Sat_1": "",
-    "Fall_Sat_2": "",
-    "Fall_Sat_3": "",
-    "Fall_Sat_4": "",
-    "Fall_Sat_5": "",
-    "Fall_Sun_0": "",
-    "Fall_Sun_1": "",
-    "Fall_Sun_2": "",
-    "Fall_Sun_3": "",
-    "Fall_Sun_4": "",
-    "Fall_Sun_5": "",
-    "Winter_Mon_0": "",
-    "Winter_Mon_1": "",
-    "Winter_Mon_2": "",
-    "Winter_Mon_3": "",
-    "Winter_Mon_4": "",
-    "Winter_Mon_5": "",
-    "Winter_Tue_0": "",
-    "Winter_Tue_1": "",
-    "Winter_Tue_2": "",
-    "Winter_Tue_3": "",
-    "Winter_Tue_4": "",
-    "Winter_Tue_5": "",
-    "Winter_Wed_0": "",
-    "Winter_Wed_1": "",
-    "Winter_Wed_2": "",
-    "Winter_Wed_3": "",
-    "Winter_Wed_4": "",
-    "Winter_Wed_5": "",
-    "Winter_Thu_0": "",
-    "Winter_Thu_1": "",
-    "Winter_Thu_2": "",
-    "Winter_Thu_3": "",
-    "Winter_Thu_4": "",
-    "Winter_Thu_5": "",
-    "Winter_Fri_0": "",
-    "Winter_Fri_1": "",
-    "Winter_Fri_2": "",
-    "Winter_Fri_3": "",
-    "Winter_Fri_4": "",
-    "Winter_Fri_5": "",
-    "Winter_Sat_0": "",
-    "Winter_Sat_1": "",
-    "Winter_Sat_2": "",
-    "Winter_Sat_3": "",
-    "Winter_Sat_4": "",
-    "Winter_Sat_5": "",
-    "Winter_Sun_0": "",
-    "Winter_Sun_1": "",
-    "Winter_Sun_2": "",
-    "Winter_Sun_3": "",
-    "Winter_Sun_4": "",
-    "Winter_Sun_5": ""
-}
+    /*
+    
+    https://stardewvalleywiki.com/Modding:Dialogue
+    
+    https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/author-guide/tokens.md
+    
+    "$c 0.5#first dialogue#second dialogue" is the randomized way built into vanilla. 
+    "{{I18n:dialogue.npc.{{random:1,2,3}} }}" with keys for dialogue.npc.1, dialogue.npc.2 etc in the i18n default folder is how you can do it in i18n very easily.
+    
+    */
+    
+    //Config//
+        "Config.Unwipeable.name": "Unwipeable",
+            
+        "Config.Unwipeable.description": "Default true to have Siva's memory be unwipeable from the witch statue.",
+    
+        "Config.Qi Title.name": "Qi Title",
+    
+        "Config.Qi Title.description": "Sets the title for Qi.",
+    
+    //Music
+        "Siva.Music.Workshop": "Shimmering Nebulae (void1gaming)",
+    
+        "Siva.Music.Date": "Carnival Date (JStewartMusic)",
+    
+    //Gifts
+        "AcceptBirthdayGift.IridiumBar.1": "Oh! This is very useful, thank you.$1",
+    
+        "AcceptBirthdayGift.mineral.1": "This looks delicious, thank you.$1",
+    
+    // DISPOSITION
+        "Siva.Gift.Love.1": "This resonates with me quite profoundly.$4 A most welcome offering that I shall treasure—and perhaps sample later.$1 My sincere gratitude.$4",
+    
+        "Siva.Gift.Love.2": "Oh! What a thoughtful selection.$4 This aligns perfectly with my preferences.$1 You've made this rotation of your world particularly pleasant.$4",
+    
+        "Siva.Gift.Love.3": "This is... exactly what I needed today.$4 How did you know? Your observational skills are impressive for an Earth-native.$1 I'm genuinely touched.$4",
+    
+        "Siva.Gift.Like.1": "Ah, I find this quite agreeable.$7 Not what we'd exchange on my homeworld, but I've developed an appreciation for your customs.$3 Thank you.$1",
+    
+        "Siva.Gift.Like.2": "A considerate gesture that I value.$7 Your world continues to offer pleasant surprises through its inhabitants.$3 I appreciate this.$1",
+    
+        "Siva.Gift.Like.3": "This will make a fine addition to my collection.$7 Your thoughtfulness doesn't go unnoticed.$3 My appreciation is sincere.$1",
+    
+        "Siva.Gift.Neutral.1": "I observe you've presented me with an item.$0 Social protocol indicates I should express gratitude, so... thank you for this gesture.$3",
+    
+        "Siva.Gift.Neutral.2": "A gift. For me.$0 How... characteristically human.$3 I acknowledge this cultural exchange with appropriate recognition.$1",
+    
+        "Siva.Gift.Neutral.3": "I see you're engaging in the gift-giving custom.$0 My cultural assimilation programming appreciates these learning opportunities.$3 Thank you for the experience.$1",
+    
+        "Siva.Gift.Dislike.1": "I... recognize this is meant as a gesture of goodwill.$6 Our species have different preferences, but I acknowledge your intention.$3 Thank you for thinking of me.$1",
+    
+        "Siva.Gift.Dislike.2": "Oh.$6 This demonstrates your willingness to engage in cultural exchange.$3 While our tastes differ significantly, I value the social connection this represents.$1",
+    
+        "Siva.Gift.Dislike.3": "I appreciate that you thought to bring me something.$6 Though our preferences are quite different, the gesture itself is... not unpleasant.$3 Thank you.$1",
+    
+        "Siva.Gift.Hate.1": "Oh.$8 I... appreciate that you are offering me a gift.$5 Please consider alternative options in future exchanges.$3",
+    
+        "Siva.Gift.Hate.2": "I recognize this as a token of... something.$8 Your intention is presumably positive, which I acknowledge.$5 Perhaps we could discuss my preferences sometime.$3",
+    
+        "Siva.Gift.Hate.3": "I understand this is meant kindly.$8 Cultural differences sometimes create unexpected challenges.$5 I value your gesture, if not the specific item.$3",
+    
+        "Siva.Gift.CrystalFruit.1": "This particular offering is most welcome.$4 You've selected something that resonates with my personal preferences quite remarkably.$1 Genuinely thoughtful of you.$4",
+    
+        "Siva.Gift.Gem.1": "What an exceptional choice.$4 You demonstrate surprising insight into what would please someone of my... background.$1 This brightens my day considerably.$4",
+    
+        "Siva.Gift.Mineral.1": "Ah! You've chosen something that reminds me of home.$7 I find these terrestrial varieties have their own unique charm.$3 A thoughtful selection indeed.$1",
+    
+        "Siva.Gift.Mineral.2": "I'm quite partial to this type of gift.$7 It suits my personal tastes remarkably well.$3 Your attentiveness is noted and appreciated.$1",
+    
+    // General CTs
+        "Siva.Dialogue.Introduction": "I am Siva, recently... relocated from considerably further away than you might guess.$3 Qi has provided temporary employment while I wait, well, let's just say while I wait.$1",
+    
+        "Siva.Dialogue.Resort_Entering.1": "A recreational water facility. How quaint.$7 I should warn you my epidermis may temporarily change your pool's pH balance.$3",
+    
+        "Siva.Dialogue.Resort_Shore.1": "I'm observing from a safe distance.$0 Large bodies of water and my internal systems have... disagreements.$8",
+    
+        "Siva.Dialogue.Movie_Invitation.1": "A visual narrative experience? Intriguing.$7 Where I'm from, we share stories through crystalline thought-transference, but I'm eager to try your method.$4",
+    
+        "Siva.Dialogue.cc_Complete.1": "You've restored this community gathering place.$0 Fascinating how physical spaces influence social coherence.$7 Perhaps there's something to learn from your species after all.$10",
+    
+        "Siva.Dialogue.danceAccept.1": "A ritualized movement ceremony? I suppose I could analyze your planet's rhythmic traditions firsthand.$7 For scientific purposes, of course.$3",
+        
+        "Siva.Dialogue.danceRejection.1": "I appreciate your invitation to this rhythmic social ritual.$6 However, my species' coordination differs significantly from yours.$3 Perhaps another time when I've had more practice with your planet's gravity.$1",
+    
+        "Siva.Dialogue.GreenRain.1": "The precipitation carries an unusual green tint today.$7 On my homeworld, emerald rain heralds the blooming of crystal forests. I wonder what it signifies here.$3",
+    
+        "Siva.Dialogue.GreenRainFinished.1": "The chromatic anomaly in your weather has subsided.$0 I collected some in a vial—it tastes faintly of copper and nostalgia. Quite pleasant, actually.$3",
+    
+        "Siva.Dialogue.GreenRain_2.1": "This viridian rainfall continues.$7 I've noticed local plants responding enthusiastically. Your world constantly finds ways to surprise me.$4",
+    
+        "Siva.Dialogue.Resort_Leaving.1": "I've had sufficient sun exposure for one day.$7 My epidermis has absorbed all the radiation it can process. Until our next encounter.$3",
+    
+        "Siva.Dialogue.Resort_Chair.1": "I'm attempting to understand the concept of 'lounging.'$0 My species rarely reclines unless unconscious or deceased, so this is quite the cultural experiment.$3",
+    
+        "Siva.Dialogue.Resort_Bar.1": "I'm sampling these beverages out of curiosity.$7 Your species has remarkable tolerance for substances that would be hallucinogenic Where I'm from.$3",
+    
+        "Siva.Dialogue.Resort.1": "A gathering place centered around communal immersion in water.$0 Reminds me of the mineral baths back home, though considerably less caustic to your skin.$3",
+    
+        "Siva.Dialogue.Resort_Towel.1": "I've positioned myself on this fabric as is customary.$7 My home planet has similar rituals, though our 'beaches' consist of luminescent crystal sand.$3",
+    
+        "Siva.Dialogue.Resort_Umbrella.1": "I find it charmingly contradictory that humans seek sunshine, yet shield themselves from it.$6 Where I'm from, we worship our sun from a safe distance of two planets away.$3",
+    
+        "Siva.Dialogue.Resort_Wander.1": "This humid environment makes my skin tingle pleasantly.$0 Though I may need to secrete additional protective oils if I stay much longer.$3",
+    
+        "Siva.Dialogue.cc_Begin.1": "You're restoring your community infrastructure?$7 Where I'm from, we grow our buildings rather than construct them, but I admire your collaborative spirit.$3",
+    
+        "Siva.Dialogue.cc_Boulder.1": "A simple rock obstruction.$0 Where I'm from, we'd sing to it in harmonic frequencies until it moved itself aside. Your methods are more... direct.$3",
+    
+        "Siva.Dialogue.cc_Bridge.1": "Connecting isolated areas—both practically and symbolically meaningful.$7 The craftsmanship is simple but effective. Sometimes the most elegant solutions aren't the most complex.$10",
+    
+        "Siva.Dialogue.cc_Bus.1": "Ah, restoring your ground-based transportation.$0 We had similar vehicles before we discovered fold-space travel. This brings back memories of my great-grandparent's stories.$3",
+    
+        "Siva.Dialogue.cc_Greenhouse.1": "A sanctuary for plant cultivation.$7 We had similar structures, though ours were for growing crystalline life forms rather than carbon-based flora. The concept translates well across worlds.$4",
+    
+        "Siva.Dialogue.movieTheater.1": "A venue for shared storytelling through visual media.$7 We had something similar, though our 'films' stimulated all five of our senses. I'm curious to experience your version.$3",
+    
+        "Siva.Dialogue.luauBest.1": "The communal feast was surprisingly delightful.$4 Even with my different digestive processes, I could appreciate the harmony of flavors. Your contribution clearly elevated the experience.$1",
+    
+        "Siva.Dialogue.luauShorts.1": "Someone has introduced clothing into the communal food.$8 Is this part of the ritual I wasn't informed about?$5 The expression on the Governor's face suggests otherwise.$6",
+    
+        "Siva.Dialogue.luauPoisoned.1": "The feast has resulted in collective digestive distress.$8 Even my specialized stomach lining found that concoction challenging.$5 Perhaps I could offer some digestive minerals from my homeworld for next time.$3",
+
+    // Community Center CTs
+        "Siva.Dialogue.cc_Begin": "The small forest beings have enlisted your help? Fascinating.$7 On my world, symbiotic relationships with native species were essential for survival.$0 Perhaps humans are more adaptable than I initially calculated.$3",
+
+        "Siva.Dialogue.cc_Complete": "You've restored this community gathering place.$0 Fascinating how physical spaces influence social coherence.$7 Perhaps there's something to learn from your species after all.$10",
+
+        "Siva.Dialogue.cc_Boulder": "Your mountain boulder has been removed? Intriguing.$0 On my homeworld, we would have simply phase-shifted around it.$3 Though I suppose your more... direct approach has its charm.$1",
+
+        "Siva.Dialogue.cc_Bridge": "The quarry bridge is functional again? Excellent.$4 Earth minerals have such fascinating properties.$7 I may need to conduct some personal research there... for scientific purposes only, of course.$3",
+
+        "Siva.Dialogue.cc_Bus": "Your primitive combustion-based transport has been restored.$0 While inefficient by galactic standards, I understand the cultural significance.$3 Does it make you happy to see it working again?$7",
+
+        "Siva.Dialogue.cc_Greenhouse": "Your agricultural containment facility is operational!$4 The atmospheric control is rudimentary but effective.$7 I've been considering growing some crystalline flora from my homeworld there...$10 With proper authorization, naturally.$3",
+
+        "Siva.Dialogue.cc_Minecart": "Your archaic transport network is functioning again.$0 On my world, we teleport, but there's something... charming about the physicality of your conveyance systems.$10 I may try it myself.$7",
+
+    // JojaMart Path CTs
+        "Siva.Dialogue.joja_Begin": "You've aligned yourself with the blue-signed commerce entity?$5 Interesting choice.$0 Corporate assimilation follows similar patterns across galaxies, it seems.$6 Just an observation, not a judgment.$3",
+
+    // Movie Theater CTs
+        "Siva.Dialogue.movieTheater": "A visual narrative experience? Intriguing.$7 On my world, we share stories through crystalline thought-transference, but I'm eager to try your method.$4",
+
+    // Pet Event CTs
+        "Siva.Dialogue.gotPet": "You've adopted a terrestrial companion creature.$0 Blik is suspicious of it, but I find your bond... heartwarming.$10 Interspecies connections are universal constants, it seems.$7",
+
+    // Relationship Event CTs
+        "Siva.Dialogue.dating": "You've initiated a formal pair-bonding process with someone?$7 My species has similar rituals, though with more luminescent displays and less... awkwardness.$3 I wish you compatibility.$10",
+
+        "Siva.Dialogue.married": "You've completed the human matrimonial ceremony!$4 I understand this is a significant life event.$0 On my world, partnerships last for precisely 87 rotations before mandatory reassessment.$3 Your 'forever' concept is both terrifying and beautiful.$10",
+
+        "Siva.Dialogue.married_twice": "A second marriage? How resilient you humans are.$7 In my culture, we believe each connection teaches us something new about ourselves.$10 What have you learned, I wonder?$0",
+
+        "Siva.Dialogue.divorced_once": "Your partnership dissolution appears to have caused emotional distress.$5 If it helps, on my world, we view relationships as temporary alignments of compatible energy patterns.$0 Nothing lost, merely transformed.$10",
+
+    // Pam's House CT
+        "Siva.Dialogue.pamHouseUpgrade": "Your generosity to the transportation operator was quite remarkable.$4 Such altruism without evolutionary advantage confounds me.$0 Yet... I find myself... moved by it.$10",
+
+        "Siva.Dialogue.pamHouseUpgradeAnonymous": "Concealing your identity while performing beneficial actions.$7 Fascinating psychological phenomenon.$0 Perhaps true altruism does exist in your species.$10 I'm... impressed.$4",
+
+    // Festival Event CTs
+        "Siva.Dialogue.wonEggHunt": "You successfully located the most artificial reproductive vessels?$4 Congratulations on your superior spatial awareness and locomotion efficiency.$7 Though I'm still unclear on why hiding eggs is festive.$3",
+
+        "Siva.Dialogue.wonGrange": "Your agricultural display was judged superior?$4 Not surprising.$7 I noticed the molecular composition of your specimens showed optimal nutrient density.$3 In simpler terms: well done.$10",
+
+        "Siva.Dialogue.wonIceFishing": "You've demonstrated remarkable skill in extracting aquatic lifeforms through frozen surfaces.$4 On my homeworld, our oceans never freeze... they occasionally vaporize instead.$6 Less suitable for recreational fishing.$3",
+
+    // Other Event CTs
+        "Siva.Dialogue.FullCrabPond": "Your crustacean containment has reached maximum capacity.$0 Their rhythmic movement patterns are almost hypnotic.$7 Did you know on my world, similar creatures can grow to the size of your farmhouse?$4 We keep them as pets.$3",
+
+        "Siva.Dialogue.GreenRain": "This precipitation contains unusual molecular structures.$7 My sensors detect trace elements not typically found in your atmosphere.$0 I would advise against direct exposure... though it may be too late for that advice.$6",
+
+        "Siva.Dialogue.GreenRainFinished": "The anomalous precipitation event has concluded.$0 Did you experience any unusual sensations?$7 For purely scientific documentation purposes, of course.$3 I'm not concerned about potential mutations. Not at all.$6",
+
+    // Willy's Event CT
+        "Siva.Dialogue.willyCrabs": "The fishing human's crustacean dilemma was quite entertaining.$3 On my world, we communicate with such creatures telepathically.$7 Have you tried simply asking them to leave?$0 No? How primitive.$3",
+    
+    
+    //Blik Dialogue
+        "Blik.Damage.01": "Blik shredded my star charts into perfect confetti strips this morning.$6 Six hours of work destroyed in minutes, yet somehow I can't stay angry when he looks so pleased with himself.$4",
+    
+        "Blik.Exploration.01": "I found Blik knocking items off shelves at Pierre's shop today.$7 He maintained perfect eye contact while deliberately pushing each item to the floor. Pierre was less amused than I was.$3",
+    
+        "Blik.Play.01": "Blik chased a butterfly through my carefully arranged crystal display.$6 The resulting chaos was... spectacular. Worth it to see him so delighted.$4",
+    
+        "Blik.Desert.01": "Blik dug up half of Sandy's cactus garden.$8 I spent three hours replanting everything while he watched with what I can only describe as smug satisfaction.$3",
+    
+        "Blik.Villager.01": "Blik knocked over Emily's entire yarn collection and tangled himself so thoroughly we needed scissors to free him.$6 Somehow he was the one upset with us for the rescue.$3",
+    
+        "Blik.Curiosity.01": "Blik investigated the community center by climbing the curtains, swinging from the chandelier, and eventually bringing down an entire bookshelf.$6 His curiosity is matched only by his talent for destruction.$4",
+    
+        "Blik.Damage.02": "Blik somehow managed to tip over my specimen table.$8 Months of careful categorization scattered across the floor, and there he sat, in the middle of the chaos, purring.$4 Impossible to scold.$1",
+    
+        "Blik.Play.02": "I found Blik batting a preserved specimen between his paws today.$6 It was rare and quite fragile. Now it's rare, fragile, and slightly chewed.$3",
+    
+        "Blik.Desert.02": "Blik brought me a 'gift' from the desert. Half a living sandfish.$7 How he transported it without injury to himself remains a mystery. The sandfish, however, was significantly less fortunate.$3",
+    
+        "Blik.Villager.02": "Blik knocked over Evelyn's entire tray of freshly baked cookies.$8 Then had the audacity to eat one while maintaining eye contact with her.$6 She still called him 'precious'his charm is inexplicable.$3",
+    
+        "Blik.Curiosity.02": "Blik scratched a perfect spiral pattern into the Wizard's door.$6 The Wizard was surprisingly impressed by the mathematical precision, if not the vandalism itself.$3",
+    
+        "Blik.Desert.03": "Blik decided the best way to help me collect desert minerals was to bury my collection bag.$8 I spent three hours digging it out while he napped in the shade.$3",
+    
+        "Blik.Damage.03": "Blik knocked my communication device into my drinking water.$8 Third time this month. I'm beginning to think it's less accident and more performance art.$6",
+    
+        "Blik.Exploration.02": "Blik pounced on Willy's fishing line repeatedly, eventually tangling it so thoroughly the poor man gave up for the day.$7 Blik seemed to consider this a personal victory.$3",
+    
+        "Blik.Mischief.01": "Blik swatted Mayor Lewis's hat into the river.$6 Then sat grooming himself innocently as if to say 'Wasn't me.' The perfect crime.$4",
+    
+        "Blik.Mischief.02": "Blik decided Pierre's seed display needed reorganizing.$7 By the time I caught him, he'd created quite the hybrid planting zone. Pierre may discover some surprising crops this season.$3",
+    
+        "Blik.Mischief.03": "Blik somehow got into Marnie's feed storage and created a masterpiece of destruction.$8 It took three of us hours to clean up. He supervised from atop a shelf, looking extraordinarily pleased.$3",
+    
+        "Blik.Affection.01": "Blik shredded my favorite cushion, then brought me the stuffing as a gift.$6 The look of pride on his face made it impossible to be upset.$10",
+    
+        "Blik.Affection.02": "Blik has been leaving half-eaten desert creatures outside Abigail's window.$7 His heart is in the right place, even if his gifts are somewhat... macabre.$3",
+    
+        "Blik.Science.01": "Blik tested the law of gravity by systematically pushing every single one of my specimens off the shelf.$8 His commitment to scientific inquiry would be admirable if it weren't so destructive.$3",
+    
+        "Blik.Science.02": "Blik investigated whether my ink was indeed permanent by knocking it onto my just-completed star charts.$8 The experiment was, unfortunately, a success.$6",
+    
+        "Blik.Misunderstanding.01": "Had to extract Blik from the Spirit's Eve maze after he'd reduced half the decorations to confetti.$8 His joy was matched only by Mayor Lewis's dismay.$6",
+    
+        "Blik.Misunderstanding.02": "Blik brought me a 'gift' today—apparently he disassembled part of Clint's forge.$8 I'll be returning the pieces with apologies and possibly compensation.$3",
+        
+    
+    //Siva's Chef Dialogue
+        "Siva.Chef.01": "Today I'm preparing a light refraction soufflé with prismatic shard garnish for Qi.$7 He doesn't actually eat it—just enjoys the chromatic display.$3 Such a waste of good minerals.$6",
+    
+        "Siva.Chef.02": "I've been experimenting with different crystalline structures in my cooking.$0 Amethyst brings out a subtle sweetness when properly illuminated, while topaz has a more... zesty quality.$4 Qi pretends to understand the difference.$3",
+    
+        "Siva.Chef.03": "Qi requested 'something blue' for dinner tonight.$0 I'm filtering moonlight through aquamarine at precisely 247 Kelvins.$7 Humans and their arbitrary food preferences are endlessly fascinating.$1",
+    
+        "Siva.Chef.04": "Did you know that light filtered through ruby tastes completely different depending on the star it originated from?$4 Of course, Qi can't appreciate such subtleties with his limited sensory apparatus.$6",
+    
+        "Siva.Chef.05": "I prepared a seven-course light tasting for Sandy yesterday.$7 She sat through the entire presentation before reminding me that humans can't consume photonic energy.$6 I knew that.$5 It was... performance art.$3",
+    
+        "Siva.Chef.06": "Sandy's fascination with my culinary practices borders on the anthropological.$0 She watches me consume light through different minerals, taking notes.$3 I may be deliberately exaggerating certain reactions for her entertainment.$4",
+    
+        "Siva.Chef.07": "The desert sunlight filtered through emerald makes for a refreshing breakfast.$1 Sandy tried to replicate the process with a flashlight and green bottle.$8 I didn't have the heart to tell her how wrong that was.$3",
+    
+        "Siva.Chef.08": "Qi asked me to prepare something 'normal' today.$0 I arranged a volcanic quartz in sunlight at the precise angle to produce the vibrational equivalent of your 'toast'.$7 He seemed... grateful, if confused.$3",
+    
+        "Siva.Chef.09": "I've started labeling my mineral collection as 'Breakfast,' 'Lunch,' and 'Dinner.'$4 Sandy finds this hilarious for some reason.$0 Earth humor continues to elude me.$6",
+    
+        "Siva.Chef.10": "Sandy tried to 'surprise' me with a jade specimen for my 'cooking.'$7 Little does she know that particular mineral composition produces what you might call an 'extremely acquired taste.'$6 I accepted graciously.$3",
+    
+        "Siva.Chef.11": "I'm perfecting a new recipe today.$4 Moonlight through obsidian, with a hint of geode-filtered starlight as garnish.$7 Sandy calls it 'watching me eat rocks in the dark.'$6",
+    
+        "Siva.Chef.12": "Qi keeps asking if I can make 'alien food' for his human guests.$0 I tried explaining that my idea of a feast would give them radiation poisoning.$8 He still seems disappointed.$6",
+    
+        "Siva.Chef.13": "The desert's quartz deposits have a distinctive terroir.$7 Light filtered through them carries notes of ancient seabeds and long-forgotten volcanic activity.$4 It pairs wonderfully with afternoon sunlight.$1",
+    
+        "Siva.Chef.14": "I found Blik attempting to 'cook' by placing random objects in moonlight.$6 His culinary instincts need refinement, but I appreciate his cultural interest.$10",
+    
+        "Siva.Chef.15": "Qi asked me to cater his next mysterious gathering.$0 I'm preparing a stunning visual symphony of light refractions.$4 The humans will appreciate the display, even if they can't taste it.$7",
+    
+    //Siva Villager Commentary
+    
+        // Sandy
+        "Siva.Villager.Sandy.01": "Sandy has an appreciation for desert environments that I find refreshing.$7 Most humans seem to prefer more water-saturated locales, but she embraces the heat and dryness.$1 Reminds me of home, though considerably cooler.$3",
+    
+        "Siva.Villager.Sandy.02": "Sandy asked about where I grew up today.$4 I described the crystalline formations and thermal springs, and she said it sounded 'exotic.' An understatement, but her genuine interest was touching.$10",
+    
+        "Siva.Villager.Sandy.03": "Sandy saved me a particularly interesting mineral specimen from a traveler's collection.$4 She understands my... dietary preferences better than most.$1",
+    
+        // Mr. Qi
+        "Siva.Villager.Qi.01": "Qi insists I'm here because he 'discovered' me.$6 Better to let him believe that than explain I specifically targeted his energy signature when my ship malfunctioned.$3",
+    
+        "Siva.Villager.Qi.02": "My employer believes himself to be the most mysterious entity in this valley.$7 His secrets are charming, like watching a child hide behind transparent curtains.$3",
+    
+        "Siva.Villager.Qi.03": "Qi requested I make his casino games 'more exciting but still profitable.'$6 The inherent contradiction seems lost on him. Still, his ambition is... admirable, in its way.$3",
+    
+        // Lewis
+        "Siva.Villager.Lewis.01": "Mayor Lewis inquired about my 'hometown' again.$6 I kept my response pleasantly vague. 'Far to the north' seems to satisfy human curiosity without inviting further questions.$3",
+    
+        "Siva.Villager.Lewis.02": "The Mayor asked about my 'accent' today.$7 I explained it as regional dialect from 'my country.' Better than explaining it's actually my speech synthesizer struggling with your limited frequency range.$3",
+    
+        // Wizard
+        "Siva.Villager.Wizard.01": "The Wizard and I had an interesting discussion about theoretical physics.$7 His understanding is impressively accurate given his unconventional education.$3",
+    
+        "Siva.Villager.Wizard.02": "I respect the Wizard's dedication to studying forces beyond common understanding.$4 We're not so different, though my approach is perhaps more... empirical than mystical.$3",
+    
+        // Pierre
+        "Siva.Villager.Pierre.01": "Pierre seemed distressed when I asked about the mineral content of his produce.$6 Apparently humans don't evaluate their food's crystalline structure. How do they know what resonates best with their systems?$3",
+    
+        "Siva.Villager.Pierre.02": "Pierre's competitive fixation on 'JojaMart' is fascinating.$7 On my world, commerce evolved beyond such tribal market divisions eons ago. Though I admit, his passion is endearing.$3",
+    
+        // Abigail
+        "Siva.Villager.Abigail.01": "Abigail asked if I wanted to try something called 'amethyst.' I had to politely explain I'd already had breakfast.$4 Her expression was... puzzling.$6",
+    
+        "Siva.Villager.Abigail.02": "I find Abigail's spirit refreshingly curious.$7 Her interest in the unconventional suggests a mind open to greater possibilities. Quite rare in my experience.$4",
+    
+        // Emily
+        "Siva.Villager.Emily.01": "Emily's perception of energies is surprisingly acute.$4 When she speaks of cosmic connections, I believe she's intuitively sensing things that most people overlook.$10",
+    
+        "Siva.Villager.Emily.02": "Emily showed me her 'crystal garden' today.$7 While simple, her arrangement demonstrated intuitive understanding of complementary properties. I was genuinely impressed.$4",
+    
+        // Haley
+        "Siva.Villager.Haley.01": "Haley asked to photograph me today.$7 Her fascination with capturing visual moments is curious, but I appreciate her artistic perspective.$3",
+    
+        "Siva.Villager.Haley.02": "Haley asked why I dress 'so boring.'$7 Fashion critique from someone who coordinates outfits with the seasons. I simply told her functional clothing serves my needs. She seemed genuinely baffled by this concept.$3",
+    
+        // Clint
+        "Siva.Villager.Clint.01": "Clint's metallurgical techniques are quite traditional.$7 Still, there's something appealing about his hands-on approach to material transformation.$3",
+    
+        "Siva.Villager.Clint.02": "I suggested some improvements to Clint's forge that would increase efficiency by 327%.$6 He seemed overwhelmed by the quantum principles involved. Perhaps I should have simplified.$3",
+    
+        // Marnie
+        "Siva.Villager.Marnie.01": "Marnie's dedication to her animals displays an admirable interspecies empathy.$10 Though her livestock's constant vocalizations remain a mystery to me.$3",
+    
+        "Siva.Villager.Marnie.02": "Marnie offered me something called 'milk' today.$8 I had to politely decline. The concept of consuming secretions from another species is... challenging where I'm from.$6",
+    
+        // Shane
+        "Siva.Villager.Shane.01": "Shane possesses a darkness that feels oddly familiar.$7 Perhaps because where I'm from, existential despair is a philosophical starting point rather than a destination.$3",
+    
+        "Siva.Villager.Shane.02": "Shane's relationship with his 'chickens' is fascinating.$7 He shows more emotional connection to these feathered creatures than to most humans. An intriguing adaptation.$3",
+    
+        // Robin
+        "Siva.Villager.Robin.01": "Robin's ability to reshape matter with simple tools is impressive.$4 Where I'm from, we have different methods of construction, but her approach has its own elegant efficiency.$1",
+    
+        "Siva.Villager.Robin.02": "Robin asked about building materials in my homeland.$7 I explained about our crystalline structures. She seemed skeptical but interested. Her curiosity is admirable.$3",
+    
+        // Demetrius
+        "Siva.Villager.Demetrius.01": "Demetrius and I had a stimulating discussion about soil composition.$7 His scientific approach is refreshingly methodical, if somewhat limited by available equipment.$3",
+    
+        "Siva.Villager.Demetrius.02": "Demetrius asked about my research background.$4 I simplified my calculations to basic models he could relate to. His enthusiasm was endearing.$1",
+    
+        // Sebastian
+        "Siva.Villager.Sebastian.01": "Sebastian's connection to darkness mirrors certain philosophical traditions I grew up with.$7 Though he might be surprised by how much deeper those traditions go.$3",
+    
+        "Siva.Villager.Sebastian.02": "Sebastian showed me his 'computer programming.'$4 The logical patterns have an elegant simplicity compared to the systems I'm accustomed to.$3",
+    
+        // Maru
+        "Siva.Villager.Maru.01": "Maru's inventions show remarkable ingenuity given her resources.$4 Her innovative thinking reminds me of the bright minds where I grew up.$1",
+    
+        "Siva.Villager.Maru.02": "Maru asked about advanced technology today.$7 I described theoretical concepts that might be possible someday. The light in her eyes was... heartwarming.$10",
+    
+        // Penny
+        "Siva.Villager.Penny.01": "Penny's dedication to educating the young is admirable.$10 Knowledge transmission is highly valued where I'm from, though our methods differ significantly.$3",
+    
+        "Siva.Villager.Penny.02": "I observed Penny's teaching techniques today.$7 The patience required for her approach is impressive. Educators where I'm from would find it quite challenging.$3",
+    
+        // Krobus
+        "Siva.Villager.Krobus.01": "Krobus and I understand each other in ways others cannot comprehend.$10 Being outsiders creates a unique bond, though our backgrounds couldn't be more different.$1",
+    
+        "Siva.Villager.Krobus.02": "Krobus and I exchanged observations about valley life today.$7 His perspective from below is the perfect complement to my perspective as a newcomer. Most illuminating.$4",
+    
+        // Dwarf
+        "Siva.Villager.Dwarf.01": "The Dwarf's ancient language has surprising similarities to obscure dialects I've studied.$7 I wonder if there's some historical connection that's been lost to time.$3",
+    
+        "Siva.Villager.Dwarf.02": "The Dwarf showed me his collection of minerals today.$4 His appreciation for their structure demonstrates a kindred spirit.$1",
+    
+    
+    //Seasonal
+    
+    //Spring
+        "Siva.Spring.1": "Ah, another season has arrived. How marvelous! The sun has not yet abandoned us. $1",
+    
+        "Siva.Spring.2": "I once observed a star collapse into a supernova. $1 It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
+        
+        "Siva.Spring.3": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+        
+        "Siva.Spring.4": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
+        
+        "Siva.Spring.5": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
+        
+        "Siva.Spring.6": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+        
+        "Siva.Spring.13": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
+        
+        "Siva.Spring.14": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
+        
+        "Siva.Spring.15": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
+        
+        "Siva.Spring.16": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
+        
+        "Siva.Spring.17": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
+        
+        "Siva.Spring.18": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
+        
+        "Siva.Spring.19": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
+        
+        "Siva.Spring.20": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
+        
+        "Siva.Spring.21": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
+        
+        "Siva.Spring.22": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
+        
+        "Siva.Spring.23": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
+        
+        "Siva.Spring.24": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
+        
+        "Siva.Spring.25": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless.",
+        
+        "Siva.Spring.27": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+        
+        "Siva.Spring.28": "Today, I will wander without purpose and see what finds me. $1",
+        
+        "Siva.Weather.Spring.1": "First day of spring and already this planet's vegetation erupts with alarming enthusiasm. Fascinating how life here is so... eager.$7",
+        
+        "Siva.Weather.Spring.2": "I once witnessed a neutron star's magnetic field tear apart a companion sun. Yet I find myself more moved by these simple wildflowers. How peculiarly sentimental I've become.$10",
+       
+        "Siva.Weather.Spring.3": "Your farmer friends celebrate tilling soil while I'm calibrating quantum phase arrays for Qi. To each species their passions, I suppose.$3",
+        
+        "Siva.Weather.Spring.4": "The molecular composition of spring rain differs subtly from winter precipitation. Blik seems to think both varieties taste identical. He's wrong, of course.$6",
+        
+        "Siva.Weather.Spring.5": "This planet's seasonal cycles are remarkably stable. My homeworld orbited binary stars—we had what you might call 'creative' seasons.$1",
+        
+        "Siva.WeatherSpring.13": "Found Blik attempting to communicate with local birds again. Their neural capacity is insufficient for his concepts, but I admire his optimism.$10",
+        
+        "Siva.WeatherSpring.17": "Mr. Qi requested another 'impossible' repair today. I completed it before lunch. The truly impossible part was explaining the process in terms he'd understand.$3",
+        
+        "Siva.WeatherSpring.23": "Desert mornings carry particular mineral notes in the air. Almost reminds me of home... if home were vastly cooler and disappointingly oxygenated.$0",
+        
+        "Siva.WeatherSpring.rain.1": "%Rain gives the minerals a pleasant sheen here. Where I'm from, precipitation would dissolve most of your buildings.$7",
+    
+    //Summer
+        "Siva.Summer.1": "The thermal readings remind me of home, though far less extreme. My cooling systems barely need to engage.$1",
+        
+        "Siva.Summer.2": "{{TimeOfDay}} heat levels are {{Random:pleasant|mild}} compared to home. %If:IsHot:Thermal regulators at 5%% capacity%$1",
+        
+        "Siva.Summer.3": "The {{Weather}} intensity requires {{SivaTechTerm}} recalibration. %If:IsHot:Coolant systems engaged%$1",
+        
+        "Siva.Summer.4": "Summer {{TimeOfDay}} brings {{Random:warmth|gentle radiation}}. {{Random:Home's star would scorch this landscape|My systems barely notice}} $1",
+        
+        "Siva.Summer.5": "Summer's heat is {{Random:a cool breeze|refreshing}} compared to my homeworld's {{Random:molten seas|scorching winds}}. %If:IsStormy:The lightning reminds me of plasma storms%$1",
+        
+        "Siva.Summer.6": "The {{Weather}} affects {{SivaMineralReference}} conductivity. {{Random:Note the fluctuations|Fascinating!}} $1",
+        
+        "Siva.Summer.7": "These summer nights have {{Random:strange|familiar}} energy patterns. {{SivaWeatherComment}}$1",
+        
+        "Siva.Summer.8": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
+        
+        "Siva.Summer.9": "A curious thing happened—the azurite filaments began self-repairing under resonant vibration. This planet's electromagnetic environment is unusually nurturing for crystal-based tech. $1",
+        
+        "Siva.Summer.10": "Qi entrusted me with a severely warped kyberic lens today. The birefringence was off the charts. I suspect it was exposed to sub-dimensional pressure. Delightful work, really. $1",
+        
+        "Siva.Summer.11": "Space is vast, a continuous expanse of unknowns. But here, in this moment, in your world, the air feels warm and safe. A quiet oasis in the infinite dark. $1",
+        
+        "Siva.Summer.12": "The sun here is quite unique. Its energy radiates with such intensity, yet it feels so familiar. In the cold vacuum of space, such warmth would be a fleeting thing. $1",
+        
+        "Siva.Summer.13": "In the serene lull of the weekend's end, I listen to the quiet hum of life around me. It is almost symphonic. $1",
+        
+        "Siva.Summer.14": "Sunday... a day of rest on this world. My systems still buzz with curiosity even in stillness. $1",
+        
+        "Siva.Summer.15": "I detect gentle fluctuations in atmospheric pressure. This planet's calm is a stark contrast to the turbulence of space. $1",
+        
+        "Siva.Summer.16": "Sunlight at midday filters through the leaves in delicate patterns. I marvel at how nature paints with photons. $1",
+        
+        "Siva.Summer.17": "The late afternoon brings a soothing warmth. Even my thermal sensors find it agreeable, a rare respite. $1",
+        
+        "Siva.Summer.18": "As dusk nears, the air cools predictably. I find this transition both comforting and precise. $1",
+        
+        "Siva.Summer.19": "Night falls on a restful day. Even in darkness, the faint glow of distant stars peeks through the canopy. $1",
+        
+        "Siva.Summer.20": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
+        
+        "Siva.Summer.21": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
+        
+        "Siva.Summer.22": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
+        
+        "Siva.Summer.23": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
+        
+        "Siva.Summer.24": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
+        
+        "Siva.Summer.25": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
+        
+        "Siva.Summer.Fri.26": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+     
+        "Siva.Summer.28": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+    
+        "Siva.Summer.29": "Exploring, relaxing, and sampling local minerals. Summer is the best time for it. $1",
+        
+        "Siva.Weather.Summer.1": "Your sun is remarkably gentle. On my homeworld, summer would liquefy your oceans and most carbon-based life forms. Charming difference.$3",
+    
+        "Siva.Weather.Summer.5": "Heat waves create fascinating distortion patterns in the air. Like looking through the membrane of a spatio-temporal fold, but significantly less likely to swallow you whole.$7",
+    
+        "Siva.Weather.Summer.9": "Fascinating—the local crystal formations accelerate their growth cycles during peak solar radiation. I've been collecting specimens. For science this time. Not for snacking.$4",
+    
+        "Siva.Weather.Summer.12": "Desert nights under your stars feel strangely intimate. In deep space, stars are cold, distant observers. Here, they almost seem... friendly.$10",
+    
+        "Siva.Weather.Summer.16": "Had to recalibrate my cooling systems today. Your human concept of 'sweating' is remarkably efficient but aesthetically unfortunate. I prefer internal temperature regulation.$6",
+    
+        "Siva.Weather.Summer.19": "Your Doctor Harvey asked about my 'sun protection routine.' I didn't have the heart to tell him my epidermis naturally reflects 98% of solar radiation. He seemed so concerned.$3",
+    
+        "Siva.Weather.Summer.25": "Caught Blik attempting to teleport a sunbeam today. Quantum physics doesn't work that way, but I appreciate his experimental spirit.$1",
+    
+        "Siva.Weather.Summer.Mon.1": "The start of another planetary rotation cycle. How thrilling.$6",
+    
+        "Siva.Weather.Summer.storm.1": "%The electrical discharge in your atmosphere is quite beautiful. Reminds me of the plasma storms back home, though considerably less lethal.$9",
+    
+    //Fall
+        "Siva.Fall.01": "Solitude is not the same as loneliness. Sometimes, I cherish the quiet and let my thoughts wander. $1",
+        
+        "Siva.Fall.02": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
+        
+        "Siva.Fall.03": "I once observed a star collapse into a supernova. It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
+        
+        "Siva.Fall.04": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+        
+        "Siva.Fall.05": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
+        
+        "Siva.Fall.06": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
+        
+        "Siva.Fall.07": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+        
+        "Siva.Fall.08": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
+        
+        "Siva.Fall.09": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
+        
+        "Siva.Fall.10": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
+        
+        "Siva.Fall.11": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
+        
+        "Siva.Fall.12": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
+        
+        "Siva.Fall.13": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
+        
+        "Siva.Fall.14": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
+        
+        "Siva.Fall.15": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
+        
+        "Siva.Fall.16": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
+        
+        "Siva.Fall.17": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
+        
+        "Siva.Fall.18": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
+        
+        "Siva.Fall.19": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
+        
+        "Siva.Fall.20": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+        
+        "Siva.Fall.22": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+        
+        "Siva.Weather.Fall.1": "The trees shed their extremities and everyone acts like it's normal.$0 Imagine if I molted my outer layer and scattered it across town. The double standard is amusing.$3",
+    
+        "Siva.Weather.Fall.3": "The locals call this 'sweater weather.' Another charming Earth custom—wearing specific fabric configurations based on arbitrary temperature thresholds.$6",
+    
+        "Siva.Weather.Fall.15": "Blik brought me a deceased rodent today, seemingly proud. I attempted to explain the difference between 'gift' and 'biological hazard.' The nuance was lost on him.$8",
+    
+        "Siva.Weather.Fall.22": "The falling leaves follow chaotic patterns that somehow express perfect order. Much like the universe itself, wouldn't you agree?$7 No? Just me then.$0",
+    
+        "Siva.Weather.Fall.wind.01": "These gusts are quite refreshing. Where I'm from, wind carries particles that would scour your flesh from bone. I prefer your version.$3",
+    
+    //Winter
+        "Siva.Winter.01": "The crystalline structures forming in the atmosphere are quite elegant. Each unique, yet following precise mathematical patterns. $1",
+        
+        "Siva.Winter.02": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
+        
+        "Siva.Winter.03": "I once observed a star collapse into a supernova. It was... magnificent, but there is something far more comforting about the steady pulse of life in your world. $1",
+        
+        "Siva.Winter.04": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+        
+        "Siva.Winter.05": "The heat here is... intense. It is a reminder of how fragile we are, standing beneath the unyielding sun. In space, the heat is far more... dangerous. Here, it feels more like a challenge. $1",
+        
+        "Siva.Winter.06": "Ah, a fracture in the quartz-based lattice array again... It's always the trigonal systems that prove finicky under solar compression. I'll have it stabilized by dusk. $1",
+        
+        "Siva.Winter.07": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+        
+        "Siva.Winter.08": "Ah, another day has arrived. How marvelous! The sun has not yet abandoned us, and for that, I am grateful. Let us see what wonders this place holds. $1",
+        
+        "Siva.Winter.09": "I have traveled across vast stretches of space, through nebulae and asteroid fields, yet it is here, amidst the falling leaves, that I find a sense of peace. How strange, how wonderful. $1",
+        
+        "Siva.Winter.10": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
+        
+        "Siva.Winter.11": "On my home world, we never felt the crispness of fall air. But here, I feel it in my very core, like a connection to this place itself. How incredible it is that something so simple can feel so grounding. $1",
+        
+        "Siva.Winter.12": "The desert reminds me of the great voids of space, where nothingness reigns. Yet here, life has found a way to survive. It's a fascinating contradiction, isn't it? $1",
+        
+        "Siva.Winter.13": "In the desert, the earth does not yield easily. It's as though the soil is holding onto its secrets, hiding them beneath layers of sand. A stark contrast to the easy embrace of life found elsewhere. $1",
+        
+        "Siva.Winter.14": "I often think about the lightyears of space that stretch out beyond the stars. So much empty space... yet, in this moment, here in your world, everything feels so... connected. $1",
+        
+        "Siva.Winter.15": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here in this place, in the quiet of winter, I feel as though I've found something rare, something real. $1",
+        
+        "Siva.Winter.16": "The desert does not experience fall the way other places do, but there is a subtle change in the air. The winds grow cooler, as if the planet itself is taking a breath before winter arrives. $1",
+        
+        "Siva.Winter.17": "Space is cold. The void between stars is inhospitable, silent, and lifeless. But here in your world, the chill of winter somehow feels welcoming, like the planet is offering its own kind of warmth. $1",
+        
+        "Siva.Winter.18": "I come from a place where the sky is not blue, but a deep, endless black, dotted with the faintest glimmers of distant suns. Yet here, the air is full of life, and I find comfort in its simple rhythm. $1",
+        
+        "Siva.Winter.19": "In space, there are no seasons. No changes in the atmosphere. Here, in your world, these subtle shifts remind me of how delicate and precious life can be. A beautiful contrast to the harshness of space. $1",
+        
+        "Siva.Winter.20": "You know, there is something quite beautiful about the way your world turns. It may be a slow dance, but it is a dance nonetheless. $1",
+        
+        "Siva.Winter.21": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
+        
+        "Siva.Weather.Winter.01": "Snow: water crystals falling from the sky.$0 Where I'm from, we had silicon-based precipitation that would build intricate glass forests. Less pleasant to walk through.$3",
+    
+        "Siva.Weather.Winter.04": "I've observed humans becoming increasingly insular during winter months. A sensible adaptation, though Blik disagrees and keeps attempting to infiltrate their gatherings.$7",
+    
+        "Siva.Weather.Winter.08": "Qi asked why I don't participate in your 'Feast of the Winter Star.' I tried explaining that I'm not technically a star, despite my illuminating personality.$3",
+    
+        "Siva.Weather.Winter.09": "Watching ice form on the water's surface—expanding as it freezes, defying normal physical behavior.$7 Water remains this planet's most fascinating anomaly.$0", 
+    
+        "Siva.Weather.Winter.10": "The winter constellations here tell stories I've never heard. Strange to think that from my homeworld, your sun is just another anonymous point of light.$10",
+    
+        "Siva.Weather.Winter.11": "Had to explain to Blik again why eating icicles isn't the same as consuming proper mineral formations. His disappointment was palpable.$6",
+    
+        "Siva.Weather.Winter.12": "The desert in winter holds a stillness that feels almost sacred.$0 The universe began in silence; perhaps that's why quiet moments feel like home.$10",
+    
+    // Siva Location Dialogue
+    
+        "Siva.SkullCavern.01": "So many minerals to sample, but I won't go any deeper. Too dangerous for me. $1",
+        
+        "Siva.MinesEntrance.01": "The mines are fascinating, but I prefer to stay near the entrance where it's safer. $1",
+    
+        "Siva.Casino.01": "Qi refers to himself as 'mysterious.'$7 As if wearing purple and hiding behind cryptic messages qualifies.$3 Still, for a being limited to three-dimensional thinking, he manages a commendable aura of intrigue.$4",
+    
+        "Siva.Casino.02": "Qi believes he discovered me 'by cosmic chance.'$7 As if my ship's emergency landing protocol didn't specifically target the highest concentration of crystalline energy on this continent.$3",
+    
+        "Siva.SandyShop.01": "Sandy always has something interesting for sale. I like her style. $1",
+        
+        "Siva.SandyShop.02": "A good conversation is sometimes the best thing you can buy at a shop. $1",
+    
+    /*
+    Siva's Heart Events: The Light Gourmet
+    
+    Event Summary List
+    
+    0-Heart Event: The Medical Emergency
+        Location: Clinic or Desert
+        Scene: Farmer offers to call a doctor when Siva is injured or ill
+        Plot: Siva admits he can't see a human doctor because his physiology is different
+        Dialogue: "Please don't call anyone. I... I know this must come as a great shock, but my internal organs aren't arranged like yours."
+        Dialogue Options for Farmer:
+            "It was pretty obvious, actually. You've been drinking saltwater like it's soda and your skin is blue."
+                "So you can see my true form then. Concerning, but I have noticed some of the children commenting on my appearance. Perhaps my cloaking technology isn't as universal as I'd presumed..."
+            "An ALIEN? That's... that's impossible!"
+                "Oh, so forest spirits and talking animals you accept, but you draw the line at extra terrestrial visitors?"
+            "Are you dangerous? Should I be worried?"
+                "Yes, I'm one of many from a alien attack force that was meant to scout this place and ... okay, stop hyperventilating, this is a joke. I'm not dangerous. I'm just... different."
+        Resolution: Farmer helps Siva find a solution, deepening trust as Siva shows vulnerability about his non-human limitations
+    
+    2-Heart Event: Salt & Light
+        Location: Beach or Saloon
+        Scene: Player discovers Siva examining salt with great curiosity
+        Plot: Siva is fascinated by humans' casual consumption of minerals, studying salt specifically
+        Dialogue: "You humans consume sodium chloride daily without ceremony, yet it's quite remarkable—it captures and preserves the memory of ancient seas and sunlight. A rather... pedestrian flavor profile, but impressively efficient for your species."
+        Resolution: Siva shares insights about how different preparation methods affect salt's "light retention," treating it like humans would discuss wine aging
+    
+    
+    4-Heart Event Option 4: Adaptation Challenges
+        Location: Clinic or Desert
+        Scene: Siva struggling with an Earth-specific environmental challenge
+        Plot: He's developed a reaction to something common on Earth (pollen, water composition, etc.)
+        Dialogue: While dealing with this challenge, Siva reveals more about his physical nature and adaptation strategies
+        Resolution: The player helps him find a solution, deepening trust as Siva shows vulnerability about his non-human limitations
+    
+    
+    6-Heart Event: Qi's Menu
+        Location: Casino kitchen
+        Scene: Siva preparing specialized "dishes" from minerals while talking about Qi
+        Plot: Through his cooking process, Siva reveals more about his complicated relationship with Qi
+        Dialogue: "Qi provides these basic ingredients, but they're hardly the quality I'm accustomed to. Like offering a chef nothing but potatoes and expecting gourmet cuisine. Still... one adapts. The universal skill of the displaced."
+        Resolution: Despite his complaints, Siva creates something beautiful, showing his resilience and creativity even with limited resources
+    
+    
+    8-Heart Event Option 3: Blik's Mischief
+        Location: Town or forest
+        Scene: Blik has gotten into trouble with the local wildlife/townspeople
+        Plot: Siva and the player must track down Blik and fix whatever chaos he's caused
+        Dialogue: While solving the problem, Siva reveals more about his and Blik's relationship - how they found each other, their journeys together, and their unusual bond
+        Resolution: Once Blik is safely retrieved, Siva shows a vulnerable moment of attachment, admitting that despite Blik's troublesome nature, he's the closest thing to family Siva has in this corner of the universe
+    
+    
+    10-Heart Event: Blik's Special Diet
+        Location: Desert at night
+        Scene: Blik appears unwell, refusing regular "food"
+        Plot: Siva explains that Blik needs a specific combination of minerals and light that's rare on Earth
+        Dialogue: "Blik's palate is even more specialized than mine. He requires light that's been filtered through selenium crystals under specific stellar alignments. On our world, it's common. Here... well, I've been improvising."
+        Resolution: Player helps find a rare mineral that, when processed by Siva, creates exactly what Blik needs, strengthening the bond between all three
+    
+    
+    14-Heart Event: The Memory Feast
+        Location: A special location meaningful to your friendship
+        Scene: Siva has prepared his masterpiece—a dish capturing the specific light of significant moments
+        Plot: Using locations you've visited together, Siva has collected and preserved the unique light signatures
+        Dialogue: "In my culture, we preserve important relationships by capturing and consuming the light of shared moments. This crystal contains the sunset from the beach when we first really talked. This one, the moonlight from the night we helped Blik. Together, they tell our story."
+        Resolution: Siva shares that this is the most meaningful "meal" he's prepared on Earth—one that contains genuine connection rather than just sustenance
+    
+    
+    
+    Example Daily Dialogues
+    Regular Day Dialogues
+        "I sampled a particularly exquisite sunrise this morning. Notes of hope with a crisp, clear finish. The desert truly produces the most interesting light vintages.$4"
+        "Your miners discard iron pyrite as worthless 'fool's gold.' Quite shortsighted.$3 When properly prepared, it delivers a robust, spicy profile with notes of afternoon sunlight.$7"
+        "Do humans truly not taste the difference between fluorescent and incandescent lighting? How... limiting.$6 Like living in a world where all music sounds identical.$0"
+        "Blik brought me a firefly yesterday. Their light has a delightful, effervescent quality—organic and unpredictable.$10 Rather like your human concept of 'street food.'$3"
+    
+    Season-Specific Dialogues
+        Spring: "Spring sunlight has a particular freshness to it. Bright, with grassy undertones and a hint of pollen.$7 Quite invigorating after winter's heavy, aged flavors.$4"
+        Summer: "Summer noon light is almost too intense—the culinary equivalent of your 'extra spicy' food.$6 I've been collecting it in small doses for Blik, who lacks my refined palate.$3"
+        Fall: "The light filtered through autumn leaves creates a remarkable amber vintage.$10 Complex, nostalgic, with notes of decay that paradoxically celebrate life's cycle.$7"
+        Winter: "Moonlight reflected off fresh snow is a rare delicacy.$4 Clean, pure, with crystalline overtones. I've been aging some in quartz for a special occasion.$1"
+    
+    Weather-Specific Dialogues
+        Rainy: "Raindrops fracture sunlight in the most fascinating ways.$7 Each droplet becomes a tiny prism, creating microbursts of flavor. Nature's molecular gastronomy.$4"
+        Thunderstorm: "Lightning contains the most complex flavor profile on your planet.$9 Intense, electric, with a sharp metallic finish. Too powerful to consume directly—I filter it through selenite.$0"
+        Foggy: "Fog creates the most interesting light infusion—sunlight steeped in water vapor.$3 Muted, mysterious, with subtle variations throughout. Like your tea, but with photons.$1"
+    
+    Location-Specific Dialogues
+        Mines: "The bioluminescent mushrooms down here produce a surprisingly sophisticated light.$7 Earthy, with umami undertones and a gentle finish. Quite the local specialty.$4"
+        Beach: "Sunlight reflected off ocean waves has a briny, bright character.$3 The salt content in the air adds a distinctive minerality to the finish. Your world's terroir at work.$1"
+        Wizard's Tower: "The magical illumination here contains flavor notes I've never encountered.$0 Like tasting a new spice for the first time... intriguing, yet difficult to categorize.$7"
+    */
+    
+        //## Heart Event Dialogue
+    
+        "Siva.HeartEvent.2hearts.1": "I've been observing Earth culture for [days] now, and I still don't understand your concept of 'small talk.'$0 Is the weather really that interesting to discuss?$3",
+    
+        "Siva.HeartEvent.4hearts.1": "My species communicates emotion through subtle shifts in bio-luminescence.$7 Since I can't do that here, I'm learning your facial expressions instead.$0 How am I doing?$3 #$b# That bad? I'll keep practicing.$6",
+    
+        "Siva.HeartEvent.6hearts.1": "When my ship crashed, I thought it was a catastrophe.$2 But now... I'm finding unexpected value in this extended planetary study.$10 Don't tell Qi, but I haven't been rushing those repair parts.$3",
+    
+        "Siva.HeartEvent.8hearts.1": "Would you like to see something from my world?$7 This crystal contains memories of the aurora storms over the Quantum Sea.$10 It's one of the few things that survived the crash.$0 #$b# I've never shown this to another being here.$10",
+    
+        "Siva.HeartEvent.10hearts.1": "In my culture, sharing one's true name is an act of profound trust.$0 Mine contains frequencies your vocal apparatus couldn't produce, but...$10 I'd like you to try.$4"
+    }
