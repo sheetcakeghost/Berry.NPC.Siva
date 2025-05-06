@@ -6,7 +6,7 @@
           "AllowValues": "true, false",   //allowvalues can be any subset, any amount
           "Default": "true",  //sets basic default to sit on
           "Section": "Content",   //section is optional, but it does help organization
-          "Description": "Default true to have Edelweiss' memory be unwipeable from the witch statue."
+          "Description": "Default true to have Siva's memory be unwipeable from the witch statue."
       }
   },
   "DynamicTokens": [
@@ -15,41 +15,78 @@
           "Name": "Siva",
           "Value": "{{ModId}}_Siva"
       },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Monday" },
-    "Value": "Mon"
-  },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Tuesday" },
-    "Value": "Tue"
-  },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Wednesday" },
-    "Value": "Wed"
-  },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Thursday" },
-    "Value": "Thu"
-  },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Friday" },
-    "Value": "Fri"
-  },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Saturday" },
-    "Value": "Sat"
-  },
-  {
-    "Name": "Weekday",
-    "When": { "DayOfWeek": "Sunday" },
-    "Value": "Sun"
-  }
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Monday" },
+        "Value": "Mon"
+      },
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Tuesday" },
+        "Value": "Tue"
+      },
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Wednesday" },
+        "Value": "Wed"
+      },
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Thursday" },
+        "Value": "Thu"
+      },
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Friday" },
+        "Value": "Fri"
+      },
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Saturday" },
+        "Value": "Sat"
+      },
+      {
+        "Name": "Weekday",
+        "When": { "DayOfWeek": "Sunday" },
+        "Value": "Sun"
+      },
+      // Blik Mischief Tokens
+      {
+        "Name": "BlikTarget",
+        "Value": "{{Random:Pierre|Harvey|Robin|Clint|Leah|Elliott|Willy|Gus|Emily|Evelyn|Lewis|Marnie|Pam|Caroline|Jodi|Sebastian|Abigail|Shane}}"
+      },
+      {
+        "Name": "BlikLocation",
+        "Value": "{{Random:Community Center|Saloon|Library|Town Square|Beach|Mountain|Forest|Ranch|Pierre's shop|Clinic|Blacksmith|Museum}}"
+      },
+      {
+        "Name": "BlikMischief",
+        "Value": "{{Random:knocked over display items|created an obstacle course with merchandise|hidden important tools|rearranged everything meticulously|left 'gifts' in unexpected places|claimed a high vantage point and refused to come down|scared away customers|tested if objects bounce properly|conducted 'gravity experiments'|terrorized local wildlife|stolen small trinkets|tangled all available string or yarn|attacked moving shadows|built a fort out of fallen items}}"
+      },
+      {
+        "Name": "BlikReaction",
+        "Value": "{{Random:watched smugly from above|purred like he'd done a good deed|pretended nothing happened|seemed genuinely confused by the upset|demanded treats as if he deserved reward|immediately planned his next adventure|fell asleep at the scene of the crime|followed the cleanup with curious interest|tried to 'help' fix things, making it worse|seemed pleased with the attention}}"
+      },
+      {
+        "Name": "BlikItem",
+        "Value": "{{Random:prized collection|important tools|latest project|organized display|handcrafted goods|inventory|paperwork|personal belongings|specialty items|decorations}}"
+      },
+      {
+        "Name": "BlikConsequence",
+        "Value": "{{Random:The cleanup took hours.|They weren't even surprised anymore.|I've never seen someone so upset.|I offered to help fix it.|Blik has been temporarily banned.|I promised to make it up to them.|The damage was surprisingly minimal.|Everything needed complete reorganization.|It created quite the spectacle in town.|No one could figure out how he managed it.}}"
+      },
+      {
+        "Name": "SivaTechTerm",
+        "Value": "{{Random:quantum|thermal|atmospheric|ionic|gravitational|photonic|crystalline|molecular|kinetic|resonant|temporal}}"
+      },
+      {
+        "Name": "SivaMineralReference",
+        "Value": "{{Random:quartz|amethyst|selenite|topaz|jade|emerald|ruby|diamond|aquamarine|opal|fluorite}}"
+      },
+      {
+        "Name": "SivaWeatherComment",
+        "Value": "{{If:IsRaining:The precipitation carries curious mineral traces.|If:IsStormy:The electrical discharges create fascinating light patterns.|If:IsFestival:Festival preparations disrupt the usual energy flows.|The atmospheric conditions feel particularly balanced today.}}"
+      }
   ],
   "Changes": [
       //////////////////////////////////////////////loads
