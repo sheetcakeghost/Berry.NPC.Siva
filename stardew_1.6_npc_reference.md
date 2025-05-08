@@ -185,18 +185,16 @@ SpaceCore.APIs.CreateCharacter("NPCName", "Assets/portrait.png", "Assets/sprite.
 - **Type**: Alien NPC
 - **Default Location**: Calico Desert
 - **Occupation**: Mr. Qi's personal chef
-- **Birthday**: Spring 8
+- **Birthday**: Winter 2
 - **Diet**: Consumes light filtered through minerals/gems
 - **Pet**: Blik (alien pet resembling a black cat)
 - **Background**: Crashed ship in Calico Desert
 - **Appearance**: Blue skin, long pink hair, green eyes, masculine features
 - **Personality**: 
-  - Optimism: 0.8
   - Gender: masculine
   - Manners: polite
-  - SocialAnxiety: shy
+  - SocialAnxiety: outgoing
   - Outlook: positive
-  - SelfAbsorption: neutral
 
 ### Siva's Background Story
 Siva is an alien chef who crash-landed in the Calico Desert three years ago. He was on a culinary exploration mission when his ship malfunctioned near Earth. Mr. Qi discovered him and offered protection in exchange for becoming his personal chef, preparing exotic dishes from recipes across the galaxy.
@@ -234,14 +232,35 @@ As friendship increases with the player:
 - **Hates**: Void essence, strange bun, battery packs (reminds him of ship malfunction)
 
 ### Events
-- 2 Hearts: Shows player his small ship wreckage hidden in the desert
-- 4 Hearts: Cooking lesson using exotic ingredients
-- 6 Hearts: Stargazing event where he points out his home system
-- 8 Hearts: Confrontation with someone who discovered his alien identity
-- 10 Hearts: Reveals technology to communicate with his home planet
+- 0 Hearts: Farmer offers to call a doctor when Siva is injured or ill, but he reveals he can't see a human doctor because his physiology is different. 
+- 2 Hearts: Player discovers Siva examining salt with great curiosity while he explains how it captures and preserves the memory of ancient seas and sunlight.
+- 4 Hearts: Siva struggles with an Earth-specific environmental challenge, revealing more about his physical nature and adaptation strategies.
+- 6 Hearts: While preparing specialized "dishes" from minerals for Qi, Siva reveals more about their complicated relationship and his adaptation to limited resources.
+- 8 Hearts: Siva and the player must track down Blik and fix the chaos he's caused, revealing how Siva and Blik found each other and their unusual bond.
+- 10 Hearts: Player helps find a rare mineral that creates exactly what an unwell Blik needs, as Siva explains Blik requires light filtered through selenium crystals.
+
+### Blik
+- **Species**: Alien creature resembling a black cat
+- **Appearance**: Inky black fur with bioluminescent blue spots that glow in the dark
+- **Personality**: Mischievous, curious, and prone to causing chaos when left unsupervised
+- **Diet**: Carnivorous plant-like digestion - consumes bioluminescent creatures including:
+  - Fireflies and glowworms (land favorites)
+  - Jellyfish and comb jellies (sea favorites)
+  - Krill and copepods (treats from deep water)
+  - Flashlight fish and anglerfish (rare delicacies)
+- **Stardew Valley favorites**:
+  - Midnight Squid from the Night Market
+  - Ghostfish and Cave Insects from the mines
+  - Glow Eel and Lava Eel
+  - Super Cucumber for its luminous properties
+  - Fragments of Radioactive Ore as special treats
+- **Feeding behavior**: Attracted to creatures whose light frequencies match those of his home world, making them both food and nostalgic comfort
+- **Relationship with Siva**: The closest thing to family Siva has in this corner of the universe
+- **Origin**: A stray animal from Siva's home world that he found ill, adopted, and nursed back to health, earning Blik's affection and loyalty
+- **Special traits**: Can understand both Siva's language and human communication, though cannot speak
+- **Behaviors**: Often disappears to hunt in the mines, sneak into the Night Market, or cause mischief at Willy's shop trying to access glowing fish
 
 ## Common Pitfalls
-
 - Using Format 1.25.0 instead of 2.0.0
 - Using deprecated `Data/NPCs` and `Data/NPCGiftTastes` targets (now `Data/Characters` and `Data/GiftTastes`)
 - Using string format for NPCDispositions (1.5) instead of object notation (1.6)
